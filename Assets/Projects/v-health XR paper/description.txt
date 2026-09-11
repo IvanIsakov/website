@@ -1,0 +1,16 @@
+Valkyrie Industries was awarded an Innovate UK Biomedical Catalyst grant, worht of £500K, in collaboration with King's College London, Guy's and St Thomas' NHS Foundation Trust, Hobbs Rehabilitation and London Southbank University. Ivan was a main grant writer and a project manager on this project.
+
+Stroke rehabilitation is hard. Not just physically hard — repetitive, exhausting, frustrating hard. Hard commercially and clinically. 
+
+Despite decades of progress in neuroscience and rehabilitation, many stroke survivors still receive far less upper limb therapy than the government recommends. Recovery often becomes limited not by potential, but by time, intensity, motivation, staffing, and access. That’s where v-health XR comes in, combining Extended Reality (XR), Functional Electrical Stimulation (FES), Real-time hand tracking and Gamified rehabilitation experiences.
+
+In 2026, we have completed a multi-site feasibility study with:
+
+- 28 chronic stroke survivors
+- 4 clinical sites across the UK
+- participants ranging from mild to severe upper limb impairment
+
+Read the description of the study here:
+https://www.valkyrie-vr.com/blog/lessons-learnt-from-stroke-survivors-xr-fes-rehabilitation
+
+The pre-print and peer review paper will appear below

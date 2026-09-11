@@ -1,0 +1,79 @@
+[
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_ea96ad1886d246c89a0366c936f659d3~mv2.jpg",
+    "title": "IMG_20200202_195149.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Amon-Ra/import-IMG-20200202-195149-jpg-93c6d12e.jpg",
+    "status": "downloaded",
+    "bytes": 5018912,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "927cc8e36a09539cfdd98b60ab68a3140cd3219f2ce5c85223f2aec90cb7b9cc",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://www.youtube.com/watch?v=ogXncF9Cwpo",
+    "title": "VJ/DJ set Ilya and Ivan",
+    "description": "VJ set by Ivan and Amon-Ra controller / DJ set by Ilya",
+    "kind": "video",
+    "file": "Assets/Projects/Amon-Ra/import-VJ-DJ-set-Ilya-and-Ivan-f5975c72.mp4",
+    "status": "downloaded",
+    "bytes": 1174589472,
+    "sha256": "11aceac123783a724ece08c27bf18a58258319fd2fb9e99ab492403168f64599",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://i.ytimg.com/vi/ogXncF9Cwpo/mqdefault.jpg",
+    "title": "VJ/DJ set Ilya and Ivan poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Amon-Ra/import-VJ-DJ-set-Ilya-and-Ivan-poster-617ec194.jpg",
+    "status": "downloaded",
+    "bytes": 8056,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "0fff1811781f42f84f14ff965b97b6520ef8d652ea8f941c9d6f6939a45accad",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://www.youtube.com/watch?v=BnaWCLEzi_g",
+    "title": "Amon-Ra. Abstract visuals for VJ",
+    "description": "Amon-Ra - is an Arduino-based visuals controller. Has several modes, possibility of recording loops and overlaying modes.\nVisuals programmed in Processing.\n\nhttps://github.com/IvanIsakov/Amon-Ra\n\nMusic used for visuals: https://soundcloud.com/cocc-i/mix-ubertown",
+    "kind": "video",
+    "file": "Assets/Projects/Amon-Ra/import-Amon-Ra-Abstract-visuals-for-VJ-ecefd46a.mp4",
+    "status": "downloaded",
+    "bytes": 882154967,
+    "sha256": "5a5201b74563ecf072d419364b67e96d16e641cff852999725e75a82e635e0bb",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://i.ytimg.com/vi/BnaWCLEzi_g/mqdefault.jpg",
+    "title": "Amon-Ra. Abstract visuals for VJ poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Amon-Ra/import-Amon-Ra-Abstract-visuals-for-VJ-poster-55232757.jpg",
+    "status": "downloaded",
+    "bytes": 7106,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "c98fdb7b4ba2c23eff139f0d9c423989804e1fd4ce6ff0ffa849b1e1d3678b35",
+    "verified": true
+  }
+]

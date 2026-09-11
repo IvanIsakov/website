@@ -1,0 +1,5 @@
+Wearable Muscle Haptics for VR
+
+Using electrical muscle stimulation (EMS) synchronised with user's actions and movements in VR. The muscle haptic sensations are very consistent, they exerts a force on your muscle, train your muscle, and make your muscle tired. As some of our testers said: “This is the closest I’ve ever experienced to the feeling of resistance in VR” and “My arms are aching today from that workout! Got a proper session in there!”. The work on this particular devices started in September 2021, with the pre-production samples ready in September 2022. Devices have been manufactured by Luxshare & Cosmo.
+
+eir bands were shown to improve muscle metabolism

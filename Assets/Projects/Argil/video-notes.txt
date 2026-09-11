@@ -1,0 +1,56 @@
+Argil. AppLab Trailer
+Argil is an intuitive mesh-based VR sculpting application for Meta Quest 2. Coming soon
+Source: https://www.youtube.com/watch?v=usHgArc3CqQ
+Status: downloaded
+
+The VR sculpting tool Argil is out on Steam. The gallery of sculpts
+Gallery of VR sculpts made in Argil.
+Argil is Out Now! Get it on Steam
+https://store.steampowered.com/app/1468390/Argil/
+
+Colouring, texturing and lighting done in Unity.
+Sculptures include: ceramic dolphin, Venus of Wramplingham, Yorick Gagarin, Maggy the Spider and many more.
+Music R3ckzet, Abel Nesian - Madbull
+How should an NFT gallery look like?
+
+Developed by Valkyrie Industries
+Source: https://www.youtube.com/watch?v=Su8gpRnImpM
+Status: downloaded
+
+Sculpting app Argil test with the new Oculus Quest Passthrough feature
+Tested our sculpting app Argil with the new Quest Passthrough feature - it's amazing for furnishing houses or desks!
+
+Polygonal sculpting is possible on a standalone headset - Oculus Quest + experimental passthrough feature =
+Future of AR - amazing interface between real and digital.
+
+______________________________
+At the moment the hand tracking demo can be donwloaded on SideQuest https://sidequestvr.com/app/4814/argil
+The full version is on Steam https://store.steampowered.com/app/1468390/Argil/
+Source: https://www.youtube.com/watch?v=faBRkjMpq2o
+Status: downloaded
+
+Argil. VR Sculpting using Finger Tracking. SideQuest Trailer
+Inspired by real sculpting, Argil is an intuitive VR space that enables quick and fun creation of organic 3D objects using your hands and fingers. It offers various easy-to-use tools that feel like manipulating real clay in your own hands (although with no haptics yet).
+
+We tried to create a hand-tracking app that would be not just fun but useful! This is a perfect tool for beginners, 3D-designers, kids, developers, and everyone interested in the natural VR control. 
+
+The sculpting tools are: push, pull, carve, smooth, add different frequency noise, add/remove resolution, free-draw a mesh in 3D. Other features include: change colour, material, add different objects (cube, cuboid, sphere, sheet) to the scene, change environment. Possibilities include exporting OBJ for 3D-printing or for incorporating them in any other 3D environments.
+
+This is a demo of a future VR sculpting experience, that would include both hand tracking and controller support.
+
+You can upload it via SideQuest on:
+https://sidequestvr.com/app/4814
+
+Music: 
+Mokka - Funky Groove [Funk Music]
+https://www.youtube.com/watch?v=TXOwP3nOKJU
+Source: https://www.youtube.com/watch?v=fasVXXcFHB4
+Status: downloaded
+
+Argil Trailer. Natural VR sculpting
+Valkyrie Industries is pleased to announce VR sculpting software Argil,
+coming to Steam on 21st of April.
+
+Inspired by real sculpting, Argil is an intuitive space that enables quick and effective creation of organic 3D objects, in a peaceful and meditative space. It offers various easy-to-use tools that feel like manipulating real clay in your own hands. Create seamlessly and quickly anything you want, be it your avatar, a model for 3D printing, a garment, or accessories.
+Source: https://www.youtube.com/watch?v=mjXW1oqWx60
+Status: downloaded

@@ -1,0 +1,137 @@
+[
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://vimeo.com/516820138",
+    "title": "Immersive robotic teleoperation haptic demo",
+    "description": "Using Valkyrie Bifrost, hand haptics, and VR headset, you can remotely operate a rover and a robotic arm. The finger haptics responds to robot touching virtual objects. Created by Ivan in 2020",
+    "kind": "video",
+    "file": "Assets/Projects/Bifrost/import-Immersive-robotic-teleoperation-haptic-demo-3427d44d.mp4",
+    "status": "failed",
+    "error": "[vimeo] Extracting URL: https://vimeo.com/516820138\n[vimeo] 516820138: Downloading webpage\nWARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [vimeo] 516820138: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_118036aacc0a4ee4860d0a05281e3204~mv2.png",
+    "title": "Immersive robotic teleoperation haptic demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Immersive-robotic-teleoperation-haptic-demo-poster-22c8f520.png",
+    "status": "downloaded",
+    "bytes": 2434699,
+    "dimensions": [
+      1920,
+      1000
+    ],
+    "sha256": "30dd0d0cf1032c64fdfd5154ba6028a7b5c3167dcaa78f067ad5df2d0452160f",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://vimeo.com/389752204",
+    "title": "Valkyrie Industries Bifrost Demo",
+    "description": "Valkyrie Bifrost creates the haptic sensations in the fingers, when touching virtual objects, and muscle haptics creates sensations of weight, when grabbing virtual objects. The glove tracks the fingers and creates haptic sensations using wide-band solenoids, the sleeve creates electrical muscle stimulation on 10 different muscles. Demo created by Ivan in 2019",
+    "kind": "video",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-Bifrost-Demo-de6ecacf.mp4",
+    "status": "failed",
+    "error": "[vimeo] Extracting URL: https://vimeo.com/389752204\n[vimeo] 389752204: Downloading webpage\nWARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [vimeo] 389752204: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_8cb1da6fbb7c4a038c9af4ad0728b3fb~mv2.jpg",
+    "title": "Valkyrie Industries Bifrost Demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-Bifrost-Demo-poster-ed28322c.jpg",
+    "status": "downloaded",
+    "bytes": 27149,
+    "dimensions": [
+      640,
+      360
+    ],
+    "sha256": "e3af0a8991b494fa3645caa8a756779a538ef1b6757bb229c9f0483a60a4ce9d",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://static.wixstatic.com/media/0a1f4c_7c5e47d7e39e4ec3a858250d8b967d7a~mv2.png",
+    "title": "Valkyrie_Backpack.png",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Backpack-png-8c6d0409.png",
+    "status": "downloaded",
+    "bytes": 8876332,
+    "dimensions": [
+      6000,
+      3376
+    ],
+    "sha256": "21c5e24a81db5e10647977b7e67f86287f180aee83c2c076fa9f48c6c552698a",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.vimeocdn.com/video/1070121685-8f91631e434628f0c0c10c5da32779b7e5973267414d24dfa8f6df73af8ff424-d",
+    "title": "Valkyrie Industries presents a Haptic Teleoperation Demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-presents-a-Haptic-Teleoperation-Demo-poster-b644c689.jpg",
+    "status": "downloaded",
+    "bytes": 135384,
+    "dimensions": [
+      1920,
+      1000
+    ],
+    "sha256": "e39a7e9898d6746fa86dad78f04e7de317496ebc9d97119f15353597cd6b7df6",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://vimeo.com/292926046",
+    "title": "Valkyrie Industries presents Project: UHI",
+    "description": "Valkyrie Industries presents Project: UHI",
+    "kind": "video",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-presents-Project-UHI-5ce640ea.mp4",
+    "status": "failed",
+    "error": "[vimeo] Extracting URL: https://vimeo.com/292926046\n[vimeo] 292926046: Downloading webpage\nWARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [vimeo] 292926046: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.vimeocdn.com/video/734423918-2de957d6306e2277d7be08244aa78ad02724793410b241f77eaaa4fc2d051ba3-d",
+    "title": "Valkyrie Industries presents Project: UHI poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-presents-Project-UHI-poster-cafe70c3.jpg",
+    "status": "downloaded",
+    "bytes": 184611,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "a0a776530338b31daec7289a41261ab60ccf6881f67a7f25cd29f743cd8bffff",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.vimeocdn.com/video/853532532-579bfa46a50ca8a54b56c364daed8a5abc2df1f450b074d233f3ecc98a0117cc-d",
+    "title": "Valkyrie Industries Tech Demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-Tech-Demo-poster-21a69b19.jpg",
+    "status": "downloaded",
+    "bytes": 136606,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "8840cfed9b5200fa5a792aa5c157ea727d67777e9f1b73b53e343a84056e0758",
+    "verified": true
+  }
+]

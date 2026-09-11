@@ -1,0 +1,3 @@
+A VR fitness game for Meta Quest headsets
+
+EIR Training - is a fitness app, utilising muscle haptic armbands - eir bands . It delivers combination of cardio and muscle training in an engaging gamified fashion. It was built in Unity3D in 2022 and overhauled in 2025 by a team lead by Ivan, junior developer Matthew Jenkins, Sybille Rerolle, Dan Tonks, Sanofer Hyderali & Decca Chan.

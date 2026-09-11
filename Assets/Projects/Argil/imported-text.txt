@@ -1,0 +1,7 @@
+Argil, EIR Training and freelance projects
+
+Animals created in VR App Valkyrie Sculptor. Valkyrie Sculptor developed by Ivan Isakov @Valkyrie Industries using Unity3D, GPU programming and hand tracking.
+
+VR sculpting for controllers and hand tracking
+
+Argil - is a natural VR sculpting tool, created by Dr Ivan Isakov in 2020 using Unity3D and compute shaders. It uses mesh manipulation, has some great functional brushes, and is published on Steam (for controllers) and Side Quest (for hand tracking)

@@ -1,0 +1,7 @@
+Using Valkyrie Bifrost, hand haptics, and VR headset, you can remotely operate a rover and a robotic arm. The finger haptics responds to robot touching virtual objects. Created by Ivan in 2020
+
+Valkyrie Bifrost creates the haptic sensations in the fingers, when touching virtual objects, and muscle haptics creates sensations of weight, when grabbing virtual objects. The glove tracks the fingers and creates haptic sensations using wide-band solenoids, the sleeve creates electrical muscle stimulation on 10 different muscles. Demo created by Ivan in 2019
+
+Upper-body Wearable Haptics for VR
+
+This was the haptic sleeve/glove combination that could be applied to remote industrial training, robotic teleoperation and, of course, location based entertainment. We have worked with Makers Department for product design. Valkyrie Bifrost was developed in 2019, however, we had to pause the development due to complexity of the project and due to COVID

@@ -1,0 +1,5 @@
+In this episode of the  "Amata World Podcast", hosts Ana and Bryan dive into the cutting-edge frontier of spatial computing and haptic technology with Ivan Isakov, the CEO and co-founder of Valkyrie Industries.
+
+The conversation explores how Valkyrie Industries tackled the fundamental challenge of replicating "weight" and resistance in virtual reality using Electrical Muscle Stimulation (EMS) and Functional Electrical Stimulation (FES). Ivan details their exciting transition into healthcare, highlighting their v-health platform and clinical work focused on neuro-rehabilitation for stroke survivors. The episode concludes with a fascinating look into how wearable "eir bands" are breaking down boundaries by shifting intensive physical therapy from the clinic straight into patients' homes.
+
+https://amata.world/podcast/episode/48e75764-6813-44a5-8ea0-ceda3fe16ff7

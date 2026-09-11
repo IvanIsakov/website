@@ -1,3 +1,6 @@
 Assets/reference.html
 node_modules/
 *.zip
+.import-tools/
+.import-cache/
+__pycache__/

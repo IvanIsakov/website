@@ -1,0 +1,14 @@
+When people first experience our technology, the questions usually follow: Does muscle stimulation work? Is it beneficial for physical training? Is it better than just using virtual reality alone? Is it painful? Will people enjoy it?
+We can now confidently answer these questions! After months of testing, data analysis, and extensive discussions with reviewers, our scientific paper has been published in the International Journal on Virtual Reality, addressing these questions! You can access the complete research paper by following the links below.
+
+Main Conclusions:
+Yes, muscle stimulation combined with VR enhances muscle training!
+Yes, your muscles are genuinely engaged and working!
+Yes, people prefer it over simple VR fitness!
+
+Short blog post:
+https://www.valkyrie-vr.com/blog/research-paper
+
+Original paper:
+https://ijvr.eu/article/view/7956
+

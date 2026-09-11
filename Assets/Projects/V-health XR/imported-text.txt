@@ -1,0 +1,3 @@
+Stroke recovery using XR & real-time functional electrical stimulation
+
+Designed for maximum customisation and simplicity, v-health applications (for XR and mobile) help individuals with neurological disorders strengthen muscles, reduce atrophy, and relearn everyday movements. It was built in 2024-25 by team led by Ivan Isakov, developers Dan Tonks, Matthew Jenkins, designers Sanofer Hyderali & Decca Chan. link to video

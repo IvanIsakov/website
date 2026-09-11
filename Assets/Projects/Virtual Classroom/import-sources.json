@@ -1,0 +1,32 @@
+[
+  {
+    "project": "Virtual Classroom",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=efJirma1n78",
+    "title": "Virtual Classroom",
+    "description": "Multi-platform multi-user virtual classroom. Supports PC VR headsets and desktop. Includes audio track, white board and post-it notes, shared virtual worlds and objects, teacher and student modes. Created in Unity3D & PUN in 2020. Supported by Innovate UK.",
+    "kind": "video",
+    "file": "Assets/Projects/Virtual Classroom/import-Virtual-Classroom-d07615a4.mp4",
+    "status": "downloaded",
+    "bytes": 46094032,
+    "sha256": "f06d9d9de69b4f7c952ee153cc3dd988ba82005ab0be7bbbb362ab32a46684f1",
+    "verified": true
+  },
+  {
+    "project": "Virtual Classroom",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_0fa79e32b6f54acb8fc5e298ba4ebb40~mv2.jpg",
+    "title": "Virtual Classroom poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Virtual Classroom/import-Virtual-Classroom-poster-4984f813.jpg",
+    "status": "downloaded",
+    "bytes": 136378,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "b09ab0a91350158c739f7414c287f31f957e2f72e93ab35354a92464631fea79",
+    "verified": true
+  }
+]

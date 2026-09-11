@@ -1,0 +1,6 @@
+VR sculpting for controllers and hand tracking
+
+Argil - is a natural VR sculpting tool, created by Dr Ivan Isakov in 2020 using Unity3D and compute shaders. It uses mesh manipulation, has some great functional brushes, and is published on Steam (for controllers) and Side Quest (for hand tracking)
+
+
+https://store.steampowered.com/app/1468390/Argil/

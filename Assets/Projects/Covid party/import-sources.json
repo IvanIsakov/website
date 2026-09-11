@@ -1,0 +1,32 @@
+[
+  {
+    "project": "Covid party",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=MNV6VRKWeUE",
+    "title": "COVID party",
+    "description": "No need to go anywhere when you have those beauties dancing around you. Created in Unity3D, sculpted in Valkyrie Argil. 2020",
+    "kind": "video",
+    "file": "Assets/Projects/Covid party/import-COVID-party-6c5ea513.mp4",
+    "status": "downloaded",
+    "bytes": 22672858,
+    "sha256": "05e0db7f7eb17f82a78d4131109e8f9ab04c12759912e099e67ec576a08bb585",
+    "verified": true
+  },
+  {
+    "project": "Covid party",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_2bf57626cd584d39a4396b1aa8e6cc83~mv2.jpg",
+    "title": "COVID party poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Covid party/import-COVID-party-poster-3ff7d432.jpg",
+    "status": "downloaded",
+    "bytes": 98314,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "bc965daecc7267da4b4b0845c0c2144011a44943e28a5c50dc0297b00af4ae72",
+    "verified": true
+  }
+]

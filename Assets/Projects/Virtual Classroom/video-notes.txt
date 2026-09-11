@@ -1,0 +1,4 @@
+Virtual Classroom
+Multi-platform multi-user virtual classroom. Supports PC VR headsets and desktop. Includes audio track, white board and post-it notes, shared virtual worlds and objects, teacher and student modes. Created in Unity3D & PUN in 2020. Supported by Innovate UK.
+Source: https://www.youtube.com/watch?v=efJirma1n78
+Status: downloaded

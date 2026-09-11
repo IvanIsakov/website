@@ -1,0 +1,14 @@
+Immersive robotic teleoperation haptic demo
+Using Valkyrie Bifrost, hand haptics, and VR headset, you can remotely operate a rover and a robotic arm. The finger haptics responds to robot touching virtual objects. Created by Ivan in 2020
+Source: https://vimeo.com/516820138
+Status: failed
+
+Valkyrie Industries Bifrost Demo
+Valkyrie Bifrost creates the haptic sensations in the fingers, when touching virtual objects, and muscle haptics creates sensations of weight, when grabbing virtual objects. The glove tracks the fingers and creates haptic sensations using wide-band solenoids, the sleeve creates electrical muscle stimulation on 10 different muscles. Demo created by Ivan in 2019
+Source: https://vimeo.com/389752204
+Status: failed
+
+Valkyrie Industries presents Project: UHI
+Valkyrie Industries presents Project: UHI
+Source: https://vimeo.com/292926046
+Status: failed

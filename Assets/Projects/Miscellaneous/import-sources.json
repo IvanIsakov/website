@@ -1,0 +1,19 @@
+[
+  {
+    "project": "DJing",
+    "source_page": "https://www.ivascht.com/dj",
+    "url": "https://static.wixstatic.com/media/11062b_4eaf79fce8f54663bf683b308ccf747b~mv2.jpg",
+    "title": "Beach Party",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/DJing/import-Beach-Party-ff333e72.jpg",
+    "status": "downloaded",
+    "bytes": 8786491,
+    "dimensions": [
+      3396,
+      2241
+    ],
+    "sha256": "1337b380e3b0cce9ef671a198cccd2ab63209258764b54d0a8ffc721347aaf6b",
+    "verified": true
+  }
+]

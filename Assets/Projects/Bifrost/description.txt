@@ -1,0 +1,3 @@
+Upper-body Wearable Haptics for VR
+
+This was the haptic sleeve/glove combination that could be applied to remote industrial training, robotic teleoperation and, of course, location based entertainment. We have worked with Makers Department for product design. Valkyrie Bifrost was developed in 2019, however, we had to pause the development due to complexity of the project and due to COVID

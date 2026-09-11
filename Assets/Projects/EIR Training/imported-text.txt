@@ -1,0 +1,5 @@
+A VR fitness game for Meta Quest headsets
+
+EIR Training - is a fitness app, utilising muscle haptic armbands - eir bands . It delivers combination of cardio and muscle training in an engaging gamified fashion. It was built in Unity3D in 2022 and overhauled in 2025 by a team lead by Ivan, junior developer Matthew Jenkins, Sybille Rerolle, Dan Tonks, Sanofer Hyderali & Decca Chan.
+
+EIR Training a companion software for Valkyrie EIR armbands. EIR training together with Valkyrie EIR armbands deliver a combination of cardio and muscle training. Ivan was a main arhitect behind the software, working with personal trainers and gym managers to create the motivational classes, was managing a team of developers and artists, and was running the user tests.
