@@ -1,0 +1,24 @@
+AI generated video
+Fully AI-generated video about woman's life. Stable Diffusion + GPT-3 + AIVA
+Source: https://www.youtube.com/watch?v=c-eb3gtgKGs
+Status: downloaded
+
+3D pigeon
+VR-sculpted pigeon
+Source: https://video.wixstatic.com/video/0a1f4c_f838527281fe432d9a95b62a80c5e36d/1080p/mp4/file.mp4
+Status: downloaded
+
+Blobs
+Using Clayxel and Unity3D
+Source: https://video.wixstatic.com/video/0a1f4c_b38c7541046042b1bea69e33498c770b/1080p/mp4/file.mp4
+Status: downloaded
+
+Processing animation showreel
+2018
+Source: https://www.youtube.com/watch?v=pqueCAJIeDg
+Status: downloaded
+
+Meditation circles
+
+Source: https://video.wixstatic.com/video/0a1f4c_fbd6744528a941e98f0d490cf1063afd/720p/mp4/file.mp4
+Status: downloaded

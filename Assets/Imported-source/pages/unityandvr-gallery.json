@@ -1,0 +1,348 @@
+[
+  {
+    "itemId": "95669593-1bfe-4b77-ac24-8561c32b1e26",
+    "isSecure": false,
+    "createdDate": "2026-01-30T19:26:49.000Z",
+    "orderIndex": -884106913051.7749,
+    "metaData": {
+      "description": "MEMORY FRACTAL IS A NEW INTERACTIVE INSTALLATION MADE OF PERSONAL OBJECTS AND STORIES ABOUT PEOPLE IN BELFAST. In collaboration with Katya Solomatina, Beckie Stew, Natasha Rukavishnikova, Tatiana Schaunig and Luke Lucas",
+      "title": "Memory Fractal",
+      "link": {
+        "target": "_blank",
+        "type": "wix",
+        "data": {
+          "url": "https://www.memory-fractal.com/",
+          "target": "_blank",
+          "rel": [
+            "noreferrer",
+            "noopener"
+          ],
+          "type": "ExternalLink"
+        },
+        "text": "https://www.memory-fractal.com/"
+      },
+      "alt": "",
+      "sourceName": "private",
+      "tags": [
+        "_fileOrigin_uploaded"
+      ],
+      "height": 1080,
+      "width": 1080,
+      "focalPoint": [
+        0.6041666666666666,
+        0.2449074074074074
+      ],
+      "fileName": "3.webp",
+      "name": "0a1f4c_a0499d0df48f4f928b19b0259fd6c264~mv2.webp"
+    },
+    "mediaUrl": "0a1f4c_a0499d0df48f4f928b19b0259fd6c264~mv2.webp"
+  },
+  {
+    "itemId": "f4348fe3-b384-46dd-b34d-fdc730e68e90",
+    "isSecure": false,
+    "createdDate": "2020-11-16T16:51:16.000Z",
+    "orderIndex": 1587386428.4501514,
+    "metaData": {
+      "description": "Multi-platform multi-user virtual classroom. Supports PC VR headsets and desktop. Includes audio track, white board and post-it notes, shared virtual worlds and objects, teacher and student modes. Created in Unity3D & PUN in 2020. Supported by Innovate UK.",
+      "title": "Virtual Classroom",
+      "link": {
+        "target": "_blank",
+        "type": "wix",
+        "data": {
+          "url": "https://www.youtube.com/watch?v=efJirma1n78",
+          "rel": [],
+          "type": "ExternalLink"
+        },
+        "text": "https://www.youtube.com/watch?v=efJirma1n78"
+      },
+      "type": "video",
+      "customPoster": "",
+      "isExternal": true,
+      "height": 1080,
+      "width": 1920,
+      "name": "efJirma1n78",
+      "posters": [
+        {
+          "height": 1080,
+          "width": 1920,
+          "url": "0a1f4c_0fa79e32b6f54acb8fc5e298ba4ebb40~mv2.jpg"
+        }
+      ],
+      "qualities": [],
+      "duration": 0,
+      "source": "youtube",
+      "videoUrl": "https://www.youtube.com/watch?v=efJirma1n78",
+      "videoId": "efJirma1n78"
+    },
+    "mediaUrl": "0a1f4c_0fa79e32b6f54acb8fc5e298ba4ebb40~mv2.jpg"
+  },
+  {
+    "itemId": "f6e68058-d15c-40ab-9023-81a63007a373",
+    "isSecure": false,
+    "createdDate": "2023-02-27T19:15:22.000Z",
+    "orderIndex": 1587386466.0801287,
+    "metaData": {
+      "description": "Applications of Valkyrie EIR EMS device to games: climbing, archery and recoil. Done for CES 2023",
+      "title": "Gamified muscle haptic experiences",
+      "link": {
+        "target": "_blank",
+        "type": "wix",
+        "data": {
+          "url": "https://youtu.be/sWClLMMDJYw",
+          "rel": [],
+          "type": "ExternalLink"
+        },
+        "text": "Youtube"
+      },
+      "type": "video",
+      "customPoster": "",
+      "isExternal": true,
+      "height": 1080,
+      "width": 1920,
+      "name": "sWClLMMDJYw",
+      "posters": [
+        {
+          "height": 720,
+          "width": 1280,
+          "url": "0a1f4c_add146d993684e0c9c221c7e46bd5ecd~mv2.jpg"
+        }
+      ],
+      "qualities": [],
+      "duration": 0,
+      "source": "youtube",
+      "videoUrl": "https://youtu.be/sWClLMMDJYw",
+      "videoId": "sWClLMMDJYw"
+    },
+    "mediaUrl": "0a1f4c_add146d993684e0c9c221c7e46bd5ecd~mv2.jpg"
+  },
+  {
+    "itemId": "067db54e-69a9-4c6c-895c-fcf041c8f932",
+    "isSecure": false,
+    "createdDate": "2022-12-07T20:06:31.000Z",
+    "orderIndex": 1587386503.710106,
+    "metaData": {
+      "description": "The virtual launderette, was created under commission of the neuro-divergent arist Mahlia Amatina in 2021.",
+      "title": "Around the World in 80 Washing Lines",
+      "link": {
+        "target": "_blank",
+        "type": "wix",
+        "data": {
+          "url": "https://ivascht.itch.io/around-the-world-in-80-washing-lines",
+          "rel": [],
+          "type": "ExternalLink"
+        },
+        "text": "https://ivascht.itch.io/around-the-world-in-80-washing-lines"
+      },
+      "alt": "",
+      "sourceName": "private",
+      "tags": [
+        "_fileOrigin_uploaded"
+      ],
+      "height": 1080,
+      "width": 1920,
+      "fileName": "Untitled4.png",
+      "name": "0a1f4c_19489830d3844186b2fa693acff0a61a~mv2.png"
+    },
+    "mediaUrl": "0a1f4c_19489830d3844186b2fa693acff0a61a~mv2.png"
+  },
+  {
+    "itemId": "bdeb487b-5ba2-4bda-9b75-8e7039b9a25b",
+    "isSecure": false,
+    "createdDate": "2020-11-16T16:52:22.000Z",
+    "orderIndex": 1587386578.9700606,
+    "metaData": {
+      "description": "No need to go anywhere when you have those beauties dancing around you. Created in Unity3D, sculpted in Valkyrie Argil. 2020",
+      "title": "COVID party",
+      "link": {
+        "type": "none",
+        "target": "_blank"
+      },
+      "type": "video",
+      "customPoster": "",
+      "isExternal": true,
+      "height": 1080,
+      "width": 1920,
+      "name": "MNV6VRKWeUE",
+      "posters": [
+        {
+          "height": 1080,
+          "width": 1920,
+          "url": "0a1f4c_2bf57626cd584d39a4396b1aa8e6cc83~mv2.jpg"
+        }
+      ],
+      "qualities": [],
+      "duration": 0,
+      "source": "youtube",
+      "videoUrl": "https://www.youtube.com/watch?v=MNV6VRKWeUE",
+      "videoId": "MNV6VRKWeUE"
+    },
+    "mediaUrl": "0a1f4c_2bf57626cd584d39a4396b1aa8e6cc83~mv2.jpg"
+  },
+  {
+    "itemId": "d9bfde3a-9de6-45d6-981d-7ec16af61216",
+    "isSecure": false,
+    "createdDate": "2020-08-18T15:37:48.000Z",
+    "orderIndex": 1587387030.529788,
+    "metaData": {
+      "description": "Animals created in VR App Valkyrie Sculptor. Valkyrie Sculptor developed by Ivan Isakov @Valkyrie Industries using Unity3D, GPU programming and hand tracking.",
+      "title": "Animals enjoying XR",
+      "link": {
+        "type": "none",
+        "target": "_blank"
+      },
+      "sourceName": "private",
+      "tags": [
+        "_fileOrigin_uploaded"
+      ],
+      "height": 906,
+      "width": 1918,
+      "fileName": "All.png",
+      "name": "0a1f4c_7ebe0e3d71444341ac8146daab1984a8~mv2.png"
+    },
+    "mediaUrl": "0a1f4c_7ebe0e3d71444341ac8146daab1984a8~mv2.png"
+  },
+  {
+    "itemId": "52821d7f-f283-4c72-a36c-4551fe9777d6",
+    "isSecure": false,
+    "createdDate": "2022-12-10T15:41:32.000Z",
+    "orderIndex": 1587387286.705394,
+    "metaData": {
+      "description": "Using Valkyrie Bifrost, hand haptics, and VR headset, you can remotely operate a rover and a robotic arm. The finger haptics responds to robot touching virtual objects. Created by Ivan in 2020",
+      "title": "Immersive robotic teleoperation haptic demo",
+      "link": {
+        "type": "none",
+        "target": "_blank"
+      },
+      "type": "video",
+      "customPoster": {
+        "height": 1000,
+        "width": 1920,
+        "url": "0a1f4c_118036aacc0a4ee4860d0a05281e3204~mv2.png"
+      },
+      "isExternal": true,
+      "height": 1080,
+      "width": 1920,
+      "name": "516820138",
+      "posters": [
+        {
+          "height": 332,
+          "width": 640,
+          "url": "0a1f4c_637250b30dda4f57b5f2b07d86358112~mv2.jpg"
+        }
+      ],
+      "qualities": [],
+      "duration": 0,
+      "source": "vimeo",
+      "videoUrl": "https://vimeo.com/516820138",
+      "videoId": "516820138"
+    },
+    "mediaUrl": "0a1f4c_637250b30dda4f57b5f2b07d86358112~mv2.jpg"
+  },
+  {
+    "itemId": "dbb3ee11-7656-4978-b686-5eb90ca5dc41",
+    "isSecure": false,
+    "createdDate": "2022-12-10T15:43:20.000Z",
+    "orderIndex": 1587387414.7931972,
+    "metaData": {
+      "description": "Valkyrie Bifrost creates the haptic sensations in the fingers, when touching virtual objects, and muscle haptics creates sensations of weight, when grabbing virtual objects. The glove tracks the fingers and creates haptic sensations using wide-band solenoids, the sleeve creates electrical muscle stimulation on 10 different muscles. Demo created by Ivan in 2019",
+      "title": "Valkyrie Industries Bifrost Demo",
+      "link": {
+        "type": "none",
+        "target": "_blank"
+      },
+      "type": "video",
+      "customPoster": "",
+      "isExternal": true,
+      "height": 1080,
+      "width": 1920,
+      "name": "389752204",
+      "posters": [
+        {
+          "height": 360,
+          "width": 640,
+          "url": "0a1f4c_8cb1da6fbb7c4a038c9af4ad0728b3fb~mv2.jpg"
+        }
+      ],
+      "qualities": [],
+      "duration": 0,
+      "source": "vimeo",
+      "videoUrl": "https://vimeo.com/389752204",
+      "videoId": "389752204"
+    },
+    "mediaUrl": "0a1f4c_8cb1da6fbb7c4a038c9af4ad0728b3fb~mv2.jpg"
+  },
+  {
+    "itemId": "80871e89-9292-4c8f-8824-db83cf552c62",
+    "isSecure": false,
+    "createdDate": "2020-04-20T12:59:03.000Z",
+    "orderIndex": 1587387542.881,
+    "metaData": {
+      "description": "First model of the interactive audio-visual installation \"Ear of the universe\" that was showcased at Nowhere-2019 festival in a desert",
+      "title": "Ear of the Universe",
+      "link": {
+        "type": "none",
+        "target": "_blank"
+      },
+      "type": "video",
+      "customPoster": {
+        "height": 693,
+        "width": 1536,
+        "url": "0a1f4c_c3ea39d894c1414db6b5f0b0c0263261~mv2.png"
+      },
+      "isExternal": false,
+      "height": 1028,
+      "width": 1920,
+      "name": "3D_render.mp4",
+      "posters": [
+        {
+          "height": 1028,
+          "width": 1920,
+          "url": "0a1f4c_ab93fb3fe1e342348b014a2d66df12e8f000.jpg"
+        },
+        {
+          "height": 1028,
+          "width": 1920,
+          "url": "0a1f4c_ab93fb3fe1e342348b014a2d66df12e8f001.jpg"
+        },
+        {
+          "height": 1028,
+          "width": 1920,
+          "url": "0a1f4c_ab93fb3fe1e342348b014a2d66df12e8f002.jpg"
+        },
+        {
+          "height": 1028,
+          "width": 1920,
+          "url": "0a1f4c_ab93fb3fe1e342348b014a2d66df12e8f003.jpg"
+        }
+      ],
+      "qualities": [
+        {
+          "formats": [
+            "mp4"
+          ],
+          "height": 1028,
+          "quality": "1080p",
+          "width": 1920
+        },
+        {
+          "formats": [
+            "mp4"
+          ],
+          "height": 686,
+          "quality": "720p",
+          "width": 1280
+        },
+        {
+          "formats": [
+            "mp4"
+          ],
+          "height": 458,
+          "quality": "480p",
+          "width": 854
+        }
+      ],
+      "duration": 44210
+    },
+    "mediaUrl": "0a1f4c_ab93fb3fe1e342348b014a2d66df12e8"
+  }
+]

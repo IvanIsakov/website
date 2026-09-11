@@ -1,0 +1,25 @@
+Fully AI-generated video about woman's life. Stable Diffusion + GPT-3 + AIVA
+
+VR-sculpted pigeon
+
+Using Clayxel and Unity3D
+
+2018
+
+Studies of Perlin noise
+
+Studies of Brownian motion
+
+Instability on a constrained surface
+
+Antibiotics resistance modelling
+
+Emergent behaviour
+
+Meditation circles
+
+Artworks created using Unity, Processing, and Stable Diffusion
+
+Since 2018 I have been coding challenges in Processing and Unity. Using my knowledge of physical laws, differential equations and mathematics, I have created many small sketches of varying quality. The best ones are presented here:
+
+Processing, Unity3D and AI-generated videos

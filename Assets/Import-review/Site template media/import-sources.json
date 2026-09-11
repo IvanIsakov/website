@@ -1,0 +1,125 @@
+[
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_f98586fb28514d5b9eb4ef10a39e62d6~mv2.jpg",
+    "title": "Video Channel",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Video-Channel-a9450b6b.jpg",
+    "status": "downloaded",
+    "bytes": 378804,
+    "dimensions": [
+      2400,
+      1353
+    ],
+    "sha256": "3f513e558b0336057272d8839942fc2ce6b61d7573d2c96603a55e4a64a24d64",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "title": "Morning Rush",
+    "kind": "video",
+    "status": "no_public_video_url",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy."
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_a6b75ab372784e0fb25d909cd4f910f2~mv2.jpg",
+    "title": "Morning Rush poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Morning-Rush-poster-79564d03.jpg",
+    "status": "downloaded",
+    "bytes": 2505072,
+    "dimensions": [
+      5184,
+      3456
+    ],
+    "sha256": "2d2ce3e2386db546a70a61fe82e5e8c10ca8d42db81aee3d5e38dfd91ee78b7f",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://video.wixstatic.com/video/f2ac30_c15ed9d1d62942ba829a5fcd0438cdee/1080p/mp4/file.mp4",
+    "title": "Into the Blue",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy.",
+    "kind": "video",
+    "file": "Assets/Import-review/Site template media/import-Into-the-Blue-083ab5ad.mp4",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_733e7f1e04af4960a5febca32351caa4~mv2.jpg",
+    "title": "Into the Blue poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Into-the-Blue-poster-5319c5a0.jpg",
+    "status": "downloaded",
+    "bytes": 2754271,
+    "dimensions": [
+      5184,
+      3456
+    ],
+    "sha256": "5b06a73651803fb3d1f53800debcfe3011159b4f25c7e52a83f375e566429f34",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "title": "Beach Patrol",
+    "kind": "video",
+    "status": "no_public_video_url",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy."
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_d72201ecde624812923667b273f54f0f~mv2.jpg",
+    "title": "Beach Patrol poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Beach-Patrol-poster-a00294c5.jpg",
+    "status": "downloaded",
+    "bytes": 2869604,
+    "dimensions": [
+      4544,
+      3029
+    ],
+    "sha256": "4d5be0383323d5a2094e3ac3a6c0a23444d3d4d708651e5e86ee2976391ab17a",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://video.wixstatic.com/video/f2ac30_7c235c593db04b158b444c6e9afeadd2/1080p/mp4/file.mp4",
+    "title": "Towering Heights",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy.",
+    "kind": "video",
+    "file": "Assets/Import-review/Site template media/import-Towering-Heights-50d69ce3.mp4",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_2afbe956f19640569c656b949c819e7d~mv2.jpg",
+    "title": "Towering Heights poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Towering-Heights-poster-d2287dcb.jpg",
+    "status": "downloaded",
+    "bytes": 426337,
+    "dimensions": [
+      2400,
+      1353
+    ],
+    "sha256": "a8377214b2142022d596a8e9b3c58ecf4a97efc4167e3a1d4f4ba76ce997abb2",
+    "verified": true
+  }
+]

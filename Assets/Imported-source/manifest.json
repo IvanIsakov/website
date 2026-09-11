@@ -1,0 +1,1515 @@
+[
+  {
+    "project": "DJing",
+    "source_page": "https://www.ivascht.com/dj",
+    "url": "https://static.wixstatic.com/media/11062b_4eaf79fce8f54663bf683b308ccf747b~mv2.jpg",
+    "title": "Beach Party",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/DJing/import-Beach-Party-ff333e72.jpg",
+    "status": "downloaded",
+    "bytes": 8786491,
+    "dimensions": [
+      3396,
+      2241
+    ],
+    "sha256": "1337b380e3b0cce9ef671a198cccd2ab63209258764b54d0a8ffc721347aaf6b",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_c3ea39d894c1414db6b5f0b0c0263261~mv2.png",
+    "title": "render_0015.png",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-render-0015-png-f3e08254.png",
+    "status": "downloaded",
+    "bytes": 1203158,
+    "dimensions": [
+      1536,
+      693
+    ],
+    "sha256": "ca2391629532095b81434cba69cd6d177354510574073a287aa0d09607a2c381",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_0956dbd3518e4e9e966c1d72616df9d1~mv2.jpg",
+    "title": "IMG_20190709_205627.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-IMG-20190709-205627-jpg-4d4aa9d7.jpg",
+    "status": "downloaded",
+    "bytes": 3603166,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "1a6f11f5b117573ecd43514b82ae479d2dbd75c14be7379f88496278356816be",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_d176f3a5d0b0427ebdfda7c96955df4e~mv2.jpg",
+    "title": "IMG_20190710_212450.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-IMG-20190710-212450-jpg-0444261e.jpg",
+    "status": "downloaded",
+    "bytes": 3390982,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "f83c9b79b29e3305101b937d41b4d70a10e2aedfffd6428380e9a23c5c346876",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_42d18185b7e045838fd3cb5ae1a01f17~mv2.jpg",
+    "title": "IMG_20190710_233329.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-IMG-20190710-233329-jpg-227054b7.jpg",
+    "status": "downloaded",
+    "bytes": 3702526,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "ff55259145858609447dcaf3765e0fd9fc0453b731c32aa7208ba3b1e3c05dde",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_e62b77d25a5144d4a58fa15ad3c2efef~mv2.jpg",
+    "title": "IMG_20190711_000017.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-IMG-20190711-000017-jpg-2dbdf023.jpg",
+    "status": "downloaded",
+    "bytes": 2885377,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "80e59de3edb45f8a59d6e0023e837e84e64b783a8ff85ad885e29cc868942876",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_050b027bf8374d399476afbfb5a488c9~mv2.jpg",
+    "title": "IMG_20190711_065131.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-IMG-20190711-065131-jpg-319a2869.jpg",
+    "status": "downloaded",
+    "bytes": 2354821,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "c3e94a802180b978a083a1b723770fb256228b734544506cf8d40d1dec0bf1be",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/0a1f4c_443443ab52fd4ef1a1941f288ca5f14b~mv2.jpg",
+    "title": "IMG_20190713_054658.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-IMG-20190713-054658-jpg-4b7e037a.jpg",
+    "status": "downloaded",
+    "bytes": 3271821,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "6dcbab5727ec819551b974d33b139dfe55e5318346ad52ea7cb2eaecff694350",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_f98586fb28514d5b9eb4ef10a39e62d6~mv2.jpg",
+    "title": "Video Channel",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Video-Channel-a9450b6b.jpg",
+    "status": "downloaded",
+    "bytes": 378804,
+    "dimensions": [
+      2400,
+      1353
+    ],
+    "sha256": "3f513e558b0336057272d8839942fc2ce6b61d7573d2c96603a55e4a64a24d64",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "title": "Morning Rush",
+    "kind": "video",
+    "status": "no_public_video_url",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy."
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_a6b75ab372784e0fb25d909cd4f910f2~mv2.jpg",
+    "title": "Morning Rush poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Morning-Rush-poster-79564d03.jpg",
+    "status": "downloaded",
+    "bytes": 2505072,
+    "dimensions": [
+      5184,
+      3456
+    ],
+    "sha256": "2d2ce3e2386db546a70a61fe82e5e8c10ca8d42db81aee3d5e38dfd91ee78b7f",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://video.wixstatic.com/video/f2ac30_c15ed9d1d62942ba829a5fcd0438cdee/1080p/mp4/file.mp4",
+    "title": "Into the Blue",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy.",
+    "kind": "video",
+    "file": "Assets/Import-review/Site template media/import-Into-the-Blue-083ab5ad.mp4",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_733e7f1e04af4960a5febca32351caa4~mv2.jpg",
+    "title": "Into the Blue poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Into-the-Blue-poster-5319c5a0.jpg",
+    "status": "downloaded",
+    "bytes": 2754271,
+    "dimensions": [
+      5184,
+      3456
+    ],
+    "sha256": "5b06a73651803fb3d1f53800debcfe3011159b4f25c7e52a83f375e566429f34",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "title": "Beach Patrol",
+    "kind": "video",
+    "status": "no_public_video_url",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy."
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_d72201ecde624812923667b273f54f0f~mv2.jpg",
+    "title": "Beach Patrol poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Beach-Patrol-poster-a00294c5.jpg",
+    "status": "downloaded",
+    "bytes": 2869604,
+    "dimensions": [
+      4544,
+      3029
+    ],
+    "sha256": "4d5be0383323d5a2094e3ac3a6c0a23444d3d4d708651e5e86ee2976391ab17a",
+    "verified": true
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://video.wixstatic.com/video/f2ac30_7c235c593db04b158b444c6e9afeadd2/1080p/mp4/file.mp4",
+    "title": "Towering Heights",
+    "description": "This is a great space to update your audience with a description of your video. Include information like what the video is about, who produced it, where it was filmed, and why it’s a must-see for viewers. Remember this is a showcase for your professional work, so be sure to use intriguing language that engages viewers and invites them to sit back and enjoy.",
+    "kind": "video",
+    "file": "Assets/Import-review/Site template media/import-Towering-Heights-50d69ce3.mp4",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "project": "Site template media",
+    "source_page": "https://www.ivascht.com/ear-of-the-universe",
+    "url": "https://static.wixstatic.com/media/f2ac30_2afbe956f19640569c656b949c819e7d~mv2.jpg",
+    "title": "Towering Heights poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Site template media/import-Towering-Heights-poster-d2287dcb.jpg",
+    "status": "downloaded",
+    "bytes": 426337,
+    "dimensions": [
+      2400,
+      1353
+    ],
+    "sha256": "a8377214b2142022d596a8e9b3c58ecf4a97efc4167e3a1d4f4ba76ce997abb2",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://www.youtube.com/watch?v=c-eb3gtgKGs",
+    "title": "AI generated video",
+    "description": "Fully AI-generated video about woman's life. Stable Diffusion + GPT-3 + AIVA",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-AI-generated-video-9f12bef2.mp4",
+    "status": "downloaded",
+    "bytes": 9842379,
+    "sha256": "2ba0dfa1e41d7512448ce2dd47587bdc767557a1b316c21ac3567062d13d84ab",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_2f7e13b7a81a4bbd876e2403961140fc~mv2.jpg",
+    "title": "AI generated video poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-AI-generated-video-poster-affff1f1.jpg",
+    "status": "downloaded",
+    "bytes": 69874,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "fd8bbf129d8d6eeda363188f8f34a0b95b2edc36875fcd054fab55100dabc15a",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://video.wixstatic.com/video/0a1f4c_f838527281fe432d9a95b62a80c5e36d/1080p/mp4/file.mp4",
+    "title": "3D pigeon",
+    "description": "VR-sculpted pigeon",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-3D-pigeon-1f924373.mp4",
+    "status": "downloaded",
+    "bytes": 32345061,
+    "sha256": "9d3631f72b8a4e11a67eccd9dcf6c11255f19dac2920c0afdc9aeb444398a821",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_f838527281fe432d9a95b62a80c5e36df003.jpg",
+    "title": "3D pigeon poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-3D-pigeon-poster-300d9bb4.jpg",
+    "status": "downloaded",
+    "bytes": 221826,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "d7f2d573b356ac4b1fdd7d7138019a46eda88957106dd574bb196ccb5d7634ba",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://video.wixstatic.com/video/0a1f4c_b38c7541046042b1bea69e33498c770b/1080p/mp4/file.mp4",
+    "title": "Blobs",
+    "description": "Using Clayxel and Unity3D",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-Blobs-a315b131.mp4",
+    "status": "downloaded",
+    "bytes": 22904619,
+    "sha256": "64af9bb4f77ae092402f62d170f9e064492b30a03e8a4aff74a337657b5e0c7a",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_b38c7541046042b1bea69e33498c770bf003.jpg",
+    "title": "Blobs poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Blobs-poster-9b574c4b.jpg",
+    "status": "downloaded",
+    "bytes": 103695,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "e9998baa06b3c34f94207eb4ffea5c50da2beff18ab0553a223379ac7b55dac8",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://www.youtube.com/watch?v=pqueCAJIeDg",
+    "title": "Processing animation showreel",
+    "description": "2018",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-Processing-animation-showreel-a3ac25ff.mp4",
+    "status": "downloaded",
+    "bytes": 63121043,
+    "sha256": "d1252f5282196a33f81955626d07df5d21ca38cac421030cc037a588aa350fff",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_eeca26aae39946e7a4fb64310267ce2a~mv2.jpg",
+    "title": "Processing animation showreel poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Processing-animation-showreel-poster-d2b4376b.jpg",
+    "status": "downloaded",
+    "bytes": 65089,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "b4550cda00dd90ae0b9c7a1ec3be9769047a061bb4d5f2e539cb8e6e4e0070db",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_41737197c1054764935d39e614595904~mv2.png",
+    "title": "Studies of Perlin noise",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Studies-of-Perlin-noise-66c43107.png",
+    "status": "downloaded",
+    "bytes": 126335,
+    "dimensions": [
+      1040,
+      1040
+    ],
+    "sha256": "3d332d2f98e148c88a71d5e7acba896dff8931e939fad0d2355e0853e4f15d0e",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_6b6b7ce601434d6f81e9a7311427c1ec~mv2.png",
+    "title": "Studies of Brownian motion",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Studies-of-Brownian-motion-2077e4e0.png",
+    "status": "downloaded",
+    "bytes": 850759,
+    "dimensions": [
+      940,
+      940
+    ],
+    "sha256": "8eba1ce9318d043ef7b108b9c1e9b737594f32c4a8ea52ab9336e8485644114b",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_cd6abcb3abed44d6b62aee52b0dd655b~mv2.png",
+    "title": "Instability on a constrained surface",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Instability-on-a-constrained-surface-941bbd02.png",
+    "status": "downloaded",
+    "bytes": 446514,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "ef55ddfd4998953391959bda3d6a1d287de5e30e63d671ca49ee8163a7f05696",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_31a5844c1812443eb41259355b80b9a0~mv2.png",
+    "title": "Antibiotics resistance modelling",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Antibiotics-resistance-modelling-10f44c02.png",
+    "status": "downloaded",
+    "bytes": 181258,
+    "dimensions": [
+      640,
+      640
+    ],
+    "sha256": "f96831ab528e3ddad254541bb72a1174f8da3b14dbb3c260ff70bb29a4341d12",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_54567d4de56f4efc8400c3c6958f1a38~mv2.png",
+    "title": "Emergent behaviour",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Emergent-behaviour-6d32c99e.png",
+    "status": "downloaded",
+    "bytes": 53564,
+    "dimensions": [
+      640,
+      640
+    ],
+    "sha256": "e21d9769cc4fd43f90b4d6d36662579f5b3f062406393fa6601dde6e97a92034",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://video.wixstatic.com/video/0a1f4c_fbd6744528a941e98f0d490cf1063afd/720p/mp4/file.mp4",
+    "title": "Meditation circles",
+    "description": "",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-Meditation-circles-81627bd3.mp4",
+    "status": "downloaded",
+    "bytes": 7446724,
+    "sha256": "55d265402508c05c52ff02b649d573a9d3aa8d3a0eadaf50781315a51c8d37f2",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_fbd6744528a941e98f0d490cf1063afdf003.jpg",
+    "title": "Meditation circles poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Meditation-circles-poster-ba55d7ca.jpg",
+    "status": "downloaded",
+    "bytes": 216520,
+    "dimensions": [
+      900,
+      900
+    ],
+    "sha256": "2d978479921346979ffef15607123b05bbe833169a5686770ed8b1595036c3dd",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_b09bdba8e2c74ff49edf34e735452511~mv2.png",
+    "title": "interaction_universe_collapse_oscillate_",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-interaction-universe-collapse-oscillate-48cad1a6.png",
+    "status": "downloaded",
+    "bytes": 318846,
+    "dimensions": [
+      800,
+      800
+    ],
+    "sha256": "fd730a5ff545e418e5ce7cf274401b1196af98a270494f08cef46d2f3e0c4c40",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_0555f93887ed4469bd04f2a0462c19c6~mv2.png",
+    "title": "eir bands",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-eir-bands-11aa80af.png",
+    "status": "downloaded",
+    "bytes": 5660435,
+    "dimensions": [
+      2336,
+      1824
+    ],
+    "sha256": "a20e9065eaa36f6018b44c745d86711748c8ad219ff49c3b7e3262010b6bf05a",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_0b05daa37c7e4a94a07fec33c4cab55b~mv2.jpg",
+    "title": "Unity 3D projects",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-Unity-3D-projects-c5c1ff4b.jpg",
+    "status": "downloaded",
+    "bytes": 264083,
+    "dimensions": [
+      1314,
+      1080
+    ],
+    "sha256": "7955b8ac395c516d7812940cc0b91f6298948ba687c3d67a32016c9e36d226d2",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_cdc54a23801f4e62a90fe940e96924fd~mv2.jpg",
+    "title": "Generative art",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Generative-art-69ad6ca4.jpg",
+    "status": "downloaded",
+    "bytes": 65921,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "sha256": "be7fdcaad5374fd4525b0ba854247e2e7f232acf8e825716f810a280b632876f",
+    "verified": true
+  },
+  {
+    "project": "V-health XR",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_45bf2281ea064910a0766cdf051ddf31~mv2.jpg",
+    "title": "Stroke recovery using XR & real-time functional electrical stimulation ",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/V-health XR/import-Stroke-recovery-using-XR-real-time-functional-electrical-stimulation-7aaa3477.jpg",
+    "status": "downloaded",
+    "bytes": 10520427,
+    "dimensions": [
+      5781,
+      3854
+    ],
+    "sha256": "1052961fb16b03eb73cf2b90ad85634c35950c873aed463dbb4cf61bbbe3d10d",
+    "verified": true
+  },
+  {
+    "project": "About",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_ad58e0858c4048a1ba0e515bfcef313d~mv2.jpg",
+    "title": "PXL_20210701_215318355_edited.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/About/import-PXL-20210701-215318355-edited-jpg-3781bd46.jpg",
+    "status": "downloaded",
+    "bytes": 322737,
+    "dimensions": [
+      2250,
+      1203
+    ],
+    "sha256": "ad174f83a15fd6785f2350629ff7d60cee90629606192b61a1137e8f73af5fcd",
+    "verified": true
+  },
+  {
+    "project": "About",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_e9ad88efdea247b6a17389678eccd149~mv2.jpg",
+    "title": "©TessyMorelli2022_AWELisbon-693.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/About/import-TessyMorelli2022-AWELisbon-693-jpg-ba6b432c.jpg",
+    "status": "downloaded",
+    "bytes": 928268,
+    "dimensions": [
+      2048,
+      1365
+    ],
+    "sha256": "ef0c12baf367fcffba2fe72a2de0a6d40b958e075c60a318d363d9f44e414732",
+    "verified": true
+  },
+  {
+    "project": "In search of Spider Consciousness",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_670e5757e6104bcfbb326c89362a2f7f~mv2.jpg",
+    "title": "small 20230708 - DSCF8074 - Nowhere 2023 - 714-Enhanced-NR (1).jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/In search of Spider Consciousness/import-small-20230708-DSCF8074-Nowhere-2023-714-Enhanced-NR-1-jpg-95f008c5.jpg",
+    "status": "downloaded",
+    "bytes": 410183,
+    "dimensions": [
+      1887,
+      1258
+    ],
+    "sha256": "e2345d857ea0225c03b544a5662309946cf77efbcf07f5d4daa4969ba02db0fc",
+    "verified": true
+  },
+  {
+    "project": "In search of Spider Consciousness",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_b072627b55784e389646b34636d47499~mv2.jpg",
+    "title": "small 20230707 - DSCF7878 - Nowhere 2023 - 526.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/In search of Spider Consciousness/import-small-20230707-DSCF7878-Nowhere-2023-526-jpg-adb18413.jpg",
+    "status": "downloaded",
+    "bytes": 330779,
+    "dimensions": [
+      1568,
+      1045
+    ],
+    "sha256": "790a41700575fb20c680613ef20176ef5c6d4661d7f87af0f4bb21297ed9dee9",
+    "verified": true
+  },
+  {
+    "project": "In search of Spider Consciousness",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_abb221f3c2bf49b881c1a9a8524eccc1~mv2.jpg",
+    "title": "small 20230707 - DSCF7897 - Nowhere 2023 - 173.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/In search of Spider Consciousness/import-small-20230707-DSCF7897-Nowhere-2023-173-jpg-c82ea915.jpg",
+    "status": "downloaded",
+    "bytes": 614705,
+    "dimensions": [
+      1373,
+      2059
+    ],
+    "sha256": "9ecdebe9e1a29a54b9ba02c6f526a9f46008e488cb5a441f3b3d037b57d32ad9",
+    "verified": true
+  },
+  {
+    "project": "In search of Spider Consciousness",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_86e486de6cee423d91a8c4dc00f3d238~mv2.jpg",
+    "title": "PXL_20230705_215230304.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/In search of Spider Consciousness/import-PXL-20230705-215230304-jpg-ffb847a8.jpg",
+    "status": "downloaded",
+    "bytes": 784805,
+    "dimensions": [
+      4080,
+      3072
+    ],
+    "sha256": "9e21046448f667c0461944178fcc1c0bbf503c7033fe2a0e693e4e0ffedd3c97",
+    "verified": true
+  },
+  {
+    "project": "In search of Spider Consciousness",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_683490a545494314b63d1c32d72039d2~mv2.jpg",
+    "title": "small PXL_20230704_180605627.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/In search of Spider Consciousness/import-small-PXL-20230704-180605627-jpg-575b7c2d.jpg",
+    "status": "downloaded",
+    "bytes": 600411,
+    "dimensions": [
+      1346,
+      1014
+    ],
+    "sha256": "287c7795662e6ed89f1a64547b64f09bf23ae421eca5c7ceefe6faf9940160d6",
+    "verified": true
+  },
+  {
+    "project": "In search of Spider Consciousness",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_83a559d90c7d467987c2e9120983e1c5~mv2.jpg",
+    "title": "small PXL_20230707_005024058.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/In search of Spider Consciousness/import-small-PXL-20230707-005024058-jpg-545d251a.jpg",
+    "status": "downloaded",
+    "bytes": 521254,
+    "dimensions": [
+      1346,
+      1014
+    ],
+    "sha256": "41c6bb22225cc3366d6b27a216284ddd98cc69aff2255fca6807793620f3c6c6",
+    "verified": true
+  },
+  {
+    "project": "Hyperspace trampoline",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_66197d445f3b4dc4a5c6297ed9f48bd0~mv2.png",
+    "title": "Hyperspace trampoline",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Hyperspace trampoline/import-Hyperspace-trampoline-f2e97d23.png",
+    "status": "downloaded",
+    "bytes": 4545804,
+    "dimensions": [
+      1600,
+      2125
+    ],
+    "sha256": "b83f46fba5015c20318ebb8eb430b414e5997210fe0c244c2b4e8788f1335ad6",
+    "verified": true
+  },
+  {
+    "project": "Portal",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_748651ee38e14900bc0ba66ff158bd95~mv2.jpg",
+    "title": "A Portal",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Portal/import-A-Portal-afc7f386.jpg",
+    "status": "downloaded",
+    "bytes": 1313536,
+    "dimensions": [
+      4080,
+      3072
+    ],
+    "sha256": "c030ebf982f8cd70edb9d365feca68a305bb283b9815f0a52f1a05a0a35b9b94",
+    "verified": true
+  },
+  {
+    "project": "Deep Sym",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_e9570d46f5aa43e88272dda337379223~mv2.jpg",
+    "title": "Deep Sym",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Deep Sym/import-Deep-Sym-e85733c4.jpg",
+    "status": "downloaded",
+    "bytes": 4735501,
+    "dimensions": [
+      5184,
+      3456
+    ],
+    "sha256": "484db2364881e08c2cda706fe4957d5b07fee1524ffb6bb6fe0570c9aad82c9c",
+    "verified": true
+  },
+  {
+    "project": "Moon crater path",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://video.wixstatic.com/video/0a1f4c_7f4c9013b80247aaa3befbfa10ecd6ab/1080p/mp4/file.mp4",
+    "title": "Moon crater path",
+    "description": "A step-sensitive light ground objects for parties. Commissioned by Nowhere Festival 2022. Collaboration with Daria Zakharova.\nArduino, LEDs, Wood, Acrylic.",
+    "kind": "video",
+    "file": "Assets/Import-review/Moon crater path/import-Moon-crater-path-cd4d00da.mp4",
+    "status": "downloaded",
+    "bytes": 32422488,
+    "sha256": "069d51a87ef35b41eb629011ea42805f265f3a975dd888218c30eca7398d11b1",
+    "verified": true
+  },
+  {
+    "project": "Moon crater path",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_7f4c9013b80247aaa3befbfa10ecd6abf003.jpg",
+    "title": "Moon crater path poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Moon crater path/import-Moon-crater-path-poster-35ca5ace.jpg",
+    "status": "downloaded",
+    "bytes": 123415,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "a06a149c28b0402f4b753ca214563fd18d7c13d7124213069c1c591d354b0fe7",
+    "verified": true
+  },
+  {
+    "project": "Mooncows Fest",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_c4622ba81ee94093acb2a295eb3eba95~mv2.jpg",
+    "title": "Pyramid",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Mooncows Fest/import-Pyramid-bf00675c.jpg",
+    "status": "downloaded",
+    "bytes": 2028079,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "b09880ff309bf65f8efe2b3dfcea007e7a5fe49e48cabbf200f8198282810d2a",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://static.wixstatic.com/media/0a1f4c_ea96ad1886d246c89a0366c936f659d3~mv2.jpg",
+    "title": "IMG_20200202_195149.jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Amon-Ra/import-IMG-20200202-195149-jpg-93c6d12e.jpg",
+    "status": "downloaded",
+    "bytes": 5018912,
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "927cc8e36a09539cfdd98b60ab68a3140cd3219f2ce5c85223f2aec90cb7b9cc",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://www.youtube.com/watch?v=ogXncF9Cwpo",
+    "title": "VJ/DJ set Ilya and Ivan",
+    "description": "VJ set by Ivan and Amon-Ra controller / DJ set by Ilya",
+    "kind": "video",
+    "file": "Assets/Projects/Amon-Ra/import-VJ-DJ-set-Ilya-and-Ivan-f5975c72.mp4",
+    "status": "downloaded",
+    "bytes": 1174589472,
+    "sha256": "11aceac123783a724ece08c27bf18a58258319fd2fb9e99ab492403168f64599",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://i.ytimg.com/vi/ogXncF9Cwpo/mqdefault.jpg",
+    "title": "VJ/DJ set Ilya and Ivan poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Amon-Ra/import-VJ-DJ-set-Ilya-and-Ivan-poster-617ec194.jpg",
+    "status": "downloaded",
+    "bytes": 8056,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "0fff1811781f42f84f14ff965b97b6520ef8d652ea8f941c9d6f6939a45accad",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://www.youtube.com/watch?v=BnaWCLEzi_g",
+    "title": "Amon-Ra. Abstract visuals for VJ",
+    "description": "Amon-Ra - is an Arduino-based visuals controller. Has several modes, possibility of recording loops and overlaying modes.\nVisuals programmed in Processing.\n\nhttps://github.com/IvanIsakov/Amon-Ra\n\nMusic used for visuals: https://soundcloud.com/cocc-i/mix-ubertown",
+    "kind": "video",
+    "file": "Assets/Projects/Amon-Ra/import-Amon-Ra-Abstract-visuals-for-VJ-ecefd46a.mp4",
+    "status": "downloaded",
+    "bytes": 882154967,
+    "sha256": "5a5201b74563ecf072d419364b67e96d16e641cff852999725e75a82e635e0bb",
+    "verified": true
+  },
+  {
+    "project": "Amon-Ra",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://i.ytimg.com/vi/BnaWCLEzi_g/mqdefault.jpg",
+    "title": "Amon-Ra. Abstract visuals for VJ poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Amon-Ra/import-Amon-Ra-Abstract-visuals-for-VJ-poster-55232757.jpg",
+    "status": "downloaded",
+    "bytes": 7106,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "c98fdb7b4ba2c23eff139f0d9c423989804e1fd4ce6ff0ffa849b1e1d3678b35",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://www.youtube.com/watch?v=LQGKn2CyUkA",
+    "title": "Ear Of The Universe @ Nowhere 2019",
+    "description": "Video film of Ear of the Universe installation @ Nowhere 2019 Festival.\n\n“EAR OF THE UNIVERSE” is a multi-sensory participatory experience which is simultaneously a new kind of spatial musical instrument allowing the audience to play a desert symphony with the rope art piece. The audience will feel the telekinesis-like power, transforming movements and space into the audiovisual sacred dance.\n\nBy Katerina Loschinina, Ivan Isakov, Andrey Novikov, Nik Nightingale, Ilia Batii and Oleg Gergel",
+    "kind": "video",
+    "file": "Assets/Projects/Ear of the universe/import-Ear-Of-The-Universe-Nowhere-2019-803f4f6f.mp4",
+    "status": "downloaded",
+    "bytes": 41591374,
+    "sha256": "2e725a62d911490ed856efc18332b77ebb617ad6f04981b5b94624c4149660bb",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/interactivehardware",
+    "url": "https://i.ytimg.com/vi/LQGKn2CyUkA/mqdefault.jpg",
+    "title": "Ear Of The Universe @ Nowhere 2019 poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Ear of the universe/import-Ear-Of-The-Universe-Nowhere-2019-poster-ecf31da6.jpg",
+    "status": "downloaded",
+    "bytes": 8336,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "6181d468ce828202e56e77249505968efb09584ef0f7d57bb402a3d181bf9d2a",
+    "verified": true
+  },
+  {
+    "project": "Memory Fractal",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_a0499d0df48f4f928b19b0259fd6c264~mv2.webp",
+    "title": "Memory Fractal",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Memory Fractal/import-Memory-Fractal-27ed48b9.webp",
+    "status": "downloaded",
+    "bytes": 115678,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "sha256": "3335b8692292e541d2266dbdc2d0e63f7095120be9b7a719c60198ce0f78a8ef",
+    "verified": true
+  },
+  {
+    "project": "Virtual Classroom",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=efJirma1n78",
+    "title": "Virtual Classroom",
+    "description": "Multi-platform multi-user virtual classroom. Supports PC VR headsets and desktop. Includes audio track, white board and post-it notes, shared virtual worlds and objects, teacher and student modes. Created in Unity3D & PUN in 2020. Supported by Innovate UK.",
+    "kind": "video",
+    "file": "Assets/Projects/Virtual Classroom/import-Virtual-Classroom-d07615a4.mp4",
+    "status": "downloaded",
+    "bytes": 46094032,
+    "sha256": "f06d9d9de69b4f7c952ee153cc3dd988ba82005ab0be7bbbb362ab32a46684f1",
+    "verified": true
+  },
+  {
+    "project": "Virtual Classroom",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_0fa79e32b6f54acb8fc5e298ba4ebb40~mv2.jpg",
+    "title": "Virtual Classroom poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Virtual Classroom/import-Virtual-Classroom-poster-4984f813.jpg",
+    "status": "downloaded",
+    "bytes": 136378,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "b09ab0a91350158c739f7414c287f31f957e2f72e93ab35354a92464631fea79",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=sWClLMMDJYw",
+    "title": "Gamified muscle haptic experiences",
+    "description": "Applications of Valkyrie EIR EMS device to games: climbing, archery and recoil. Done for CES 2023",
+    "kind": "video",
+    "file": "Assets/Projects/Eir bands/import-Gamified-muscle-haptic-experiences-1c2b3023.mp4",
+    "status": "downloaded",
+    "bytes": 22868118,
+    "sha256": "a9c047f8e94b4916bbc2b2f77407306e02e10741fe43a48992dc9ba61583ae3b",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_add146d993684e0c9c221c7e46bd5ecd~mv2.jpg",
+    "title": "Gamified muscle haptic experiences poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-Gamified-muscle-haptic-experiences-poster-7153f658.jpg",
+    "status": "downloaded",
+    "bytes": 92323,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "c24ee717ca913a924d0ea9ff819ca0b777e02a9002a92f812c94a74b1b4f5341",
+    "verified": true
+  },
+  {
+    "project": "Around the World in 80 Washing Lines",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_19489830d3844186b2fa693acff0a61a~mv2.png",
+    "title": "Around the World in 80 Washing Lines",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Around the World in 80 Washing Lines/import-Around-the-World-in-80-Washing-Lines-8763807f.png",
+    "status": "downloaded",
+    "bytes": 2529568,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "c1b846792dcc2ad1cd0f3e68aca90347de5e46fbb7821040d2552dfc1048d89e",
+    "verified": true
+  },
+  {
+    "project": "Covid party",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=MNV6VRKWeUE",
+    "title": "COVID party",
+    "description": "No need to go anywhere when you have those beauties dancing around you. Created in Unity3D, sculpted in Valkyrie Argil. 2020",
+    "kind": "video",
+    "file": "Assets/Projects/Covid party/import-COVID-party-6c5ea513.mp4",
+    "status": "downloaded",
+    "bytes": 22672858,
+    "sha256": "05e0db7f7eb17f82a78d4131109e8f9ab04c12759912e099e67ec576a08bb585",
+    "verified": true
+  },
+  {
+    "project": "Covid party",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_2bf57626cd584d39a4396b1aa8e6cc83~mv2.jpg",
+    "title": "COVID party poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Covid party/import-COVID-party-poster-3ff7d432.jpg",
+    "status": "downloaded",
+    "bytes": 98314,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "bc965daecc7267da4b4b0845c0c2144011a44943e28a5c50dc0297b00af4ae72",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_7ebe0e3d71444341ac8146daab1984a8~mv2.png",
+    "title": "Animals enjoying XR",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-Animals-enjoying-XR-412604f5.png",
+    "status": "downloaded",
+    "bytes": 1402479,
+    "dimensions": [
+      1918,
+      906
+    ],
+    "sha256": "f96bcaa0dbd20f2f481e410606c29557d3b2d681ddf7d0dd2d6d54fdc80520cc",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://vimeo.com/516820138",
+    "title": "Immersive robotic teleoperation haptic demo",
+    "description": "Using Valkyrie Bifrost, hand haptics, and VR headset, you can remotely operate a rover and a robotic arm. The finger haptics responds to robot touching virtual objects. Created by Ivan in 2020",
+    "kind": "video",
+    "file": "Assets/Projects/Bifrost/import-Immersive-robotic-teleoperation-haptic-demo-3427d44d.mp4",
+    "status": "failed",
+    "error": "[vimeo] Extracting URL: https://vimeo.com/516820138\n[vimeo] 516820138: Downloading webpage\nWARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [vimeo] 516820138: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_118036aacc0a4ee4860d0a05281e3204~mv2.png",
+    "title": "Immersive robotic teleoperation haptic demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Immersive-robotic-teleoperation-haptic-demo-poster-22c8f520.png",
+    "status": "downloaded",
+    "bytes": 2434699,
+    "dimensions": [
+      1920,
+      1000
+    ],
+    "sha256": "30dd0d0cf1032c64fdfd5154ba6028a7b5c3167dcaa78f067ad5df2d0452160f",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://vimeo.com/389752204",
+    "title": "Valkyrie Industries Bifrost Demo",
+    "description": "Valkyrie Bifrost creates the haptic sensations in the fingers, when touching virtual objects, and muscle haptics creates sensations of weight, when grabbing virtual objects. The glove tracks the fingers and creates haptic sensations using wide-band solenoids, the sleeve creates electrical muscle stimulation on 10 different muscles. Demo created by Ivan in 2019",
+    "kind": "video",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-Bifrost-Demo-de6ecacf.mp4",
+    "status": "failed",
+    "error": "[vimeo] Extracting URL: https://vimeo.com/389752204\n[vimeo] 389752204: Downloading webpage\nWARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [vimeo] 389752204: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_8cb1da6fbb7c4a038c9af4ad0728b3fb~mv2.jpg",
+    "title": "Valkyrie Industries Bifrost Demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-Bifrost-Demo-poster-ed28322c.jpg",
+    "status": "downloaded",
+    "bytes": 27149,
+    "dimensions": [
+      640,
+      360
+    ],
+    "sha256": "e3af0a8991b494fa3645caa8a756779a538ef1b6757bb229c9f0483a60a4ce9d",
+    "verified": true
+  },
+  {
+    "project": "Ear of the universe",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://video.wixstatic.com/video/0a1f4c_ab93fb3fe1e342348b014a2d66df12e8/1080p/mp4/file.mp4",
+    "title": "Ear of the Universe",
+    "description": "First model of the interactive audio-visual installation \"Ear of the universe\" that was showcased at Nowhere-2019 festival in a desert",
+    "kind": "video",
+    "file": "Assets/Projects/Ear of the universe/import-Ear-of-the-Universe-33057ac7.mp4",
+    "status": "downloaded",
+    "bytes": 29429440,
+    "sha256": "3033ed8ef3f99ddbe84a84e5387a00bc02d2d1a3c864b27794b0e803ae3a8961",
+    "verified": true
+  },
+  {
+    "project": "EIR Training",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://static.wixstatic.com/media/0a1f4c_e195239d14094ca19adcf14133d6b7d5~mv2.png",
+    "title": "491821568_1784583508889298_3287795236417659913_n.png",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/EIR Training/import-491821568-1784583508889298-3287795236417659913-n-png-30ea986d.png",
+    "status": "downloaded",
+    "bytes": 303185,
+    "dimensions": [
+      1440,
+      1440
+    ],
+    "sha256": "2bb0b217a0542d786d82f9b9ea3b0ce02d5058fd1d20fa24ed1e792d2adbfdb3",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=usHgArc3CqQ",
+    "title": "Argil. AppLab Trailer",
+    "description": "Argil is an intuitive mesh-based VR sculpting application for Meta Quest 2. Coming soon",
+    "kind": "video",
+    "file": "Assets/Projects/Argil/import-Argil-AppLab-Trailer-447b5140.mp4",
+    "status": "downloaded",
+    "bytes": 19263873,
+    "sha256": "dd322ae90ecd39134e9706a87096ef72fa449245d742ce584840ec217d1253f8",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://i.ytimg.com/vi/usHgArc3CqQ/mqdefault.jpg",
+    "title": "Argil. AppLab Trailer poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-Argil-AppLab-Trailer-poster-3bac4fb1.jpg",
+    "status": "downloaded",
+    "bytes": 6763,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "e291954735d0b70727d890ab69fd4cef1416eeb13b3234fc27911b9849072747",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=Su8gpRnImpM",
+    "title": "The VR sculpting tool Argil is out on Steam. The gallery of sculpts",
+    "description": "Gallery of VR sculpts made in Argil.\nArgil is Out Now! Get it on Steam\nhttps://store.steampowered.com/app/1468390/Argil/\n\nColouring, texturing and lighting done in Unity.\nSculptures include: ceramic dolphin, Venus of Wramplingham, Yorick Gagarin, Maggy the Spider and many more.\nMusic R3ckzet, Abel Nesian - Madbull\nHow should an NFT gallery look like?\n\nDeveloped by Valkyrie Industries",
+    "kind": "video",
+    "file": "Assets/Projects/Argil/import-The-VR-sculpting-tool-Argil-is-out-on-Steam-The-gallery-of-sculpts-0b2e7124.mp4",
+    "status": "downloaded",
+    "bytes": 26399397,
+    "sha256": "8d240650a9b6ab6990ac14a45a257c3ab156fc86b6f010f6c8f7ced94f2b93d7",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://i.ytimg.com/vi/Su8gpRnImpM/mqdefault.jpg",
+    "title": "The VR sculpting tool Argil is out on Steam. The gallery of sculpts poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-The-VR-sculpting-tool-Argil-is-out-on-Steam-The-gallery-of-sculpts-poster-b4f5cf47.jpg",
+    "status": "downloaded",
+    "bytes": 7149,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "65be01f42604a72c0525d09aae1d79c0f41e5aab8fceef8826576d396068b562",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=faBRkjMpq2o",
+    "title": "Sculpting app Argil test with the new Oculus Quest Passthrough feature",
+    "description": "Tested our sculpting app Argil with the new Quest Passthrough feature - it's amazing for furnishing houses or desks!\n\nPolygonal sculpting is possible on a standalone headset - Oculus Quest + experimental passthrough feature =\nFuture of AR - amazing interface between real and digital.\n\n______________________________\nAt the moment the hand tracking demo can be donwloaded on SideQuest https://sidequestvr.com/app/4814/argil\nThe full version is on Steam https://store.steampowered.com/app/1468390/Argil/",
+    "kind": "video",
+    "file": "Assets/Projects/Argil/import-Sculpting-app-Argil-test-with-the-new-Oculus-Quest-Passthrough-feature-f5c9c6b2.mp4",
+    "status": "downloaded",
+    "bytes": 9730021,
+    "sha256": "c28245ce9fa8f9430b66379ac9558908efc34d104462c9f9b488d4704e2afff4",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://i.ytimg.com/vi/faBRkjMpq2o/mqdefault.jpg",
+    "title": "Sculpting app Argil test with the new Oculus Quest Passthrough feature poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-Sculpting-app-Argil-test-with-the-new-Oculus-Quest-Passthrough-feature-poster-f6bc0f31.jpg",
+    "status": "downloaded",
+    "bytes": 9134,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "76a6d1726263d6b09b2a1023e3dce79955af3831fd5b979efc013e48df838ca3",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=fasVXXcFHB4",
+    "title": "Argil. VR Sculpting using Finger Tracking. SideQuest Trailer",
+    "description": "Inspired by real sculpting, Argil is an intuitive VR space that enables quick and fun creation of organic 3D objects using your hands and fingers. It offers various easy-to-use tools that feel like manipulating real clay in your own hands (although with no haptics yet).\n\nWe tried to create a hand-tracking app that would be not just fun but useful! This is a perfect tool for beginners, 3D-designers, kids, developers, and everyone interested in the natural VR control. \n\nThe sculpting tools are: push, pull, carve, smooth, add different frequency noise, add/remove resolution, free-draw a mesh in 3D. Other features include: change colour, material, add different objects (cube, cuboid, sphere, sheet) to the scene, change environment. Possibilities include exporting OBJ for 3D-printing or for incorporating them in any other 3D environments.\n\nThis is a demo of a future VR sculpting experience, that would include both hand tracking and controller support.\n\nYou can upload it via SideQuest on:\nhttps://sidequestvr.com/app/4814\n\nMusic: \nMokka - Funky Groove [Funk Music]\nhttps://www.youtube.com/watch?v=TXOwP3nOKJU",
+    "kind": "video",
+    "file": "Assets/Projects/Argil/import-Argil-VR-Sculpting-using-Finger-Tracking-SideQuest-Trailer-753cd703.mp4",
+    "status": "downloaded",
+    "bytes": 15481762,
+    "sha256": "f4083a1904bf5cf60d5ff330c2634e9ad01a68952a57d0ac7e5d58849a25823b",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://i.ytimg.com/vi/fasVXXcFHB4/mqdefault.jpg",
+    "title": "Argil. VR Sculpting using Finger Tracking. SideQuest Trailer poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-Argil-VR-Sculpting-using-Finger-Tracking-SideQuest-Trailer-poster-d18bf849.jpg",
+    "status": "downloaded",
+    "bytes": 14278,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "3359e1e18eb1777068c715217cfcb3482ed15c161adef3dd5654ec7fcf590273",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://www.youtube.com/watch?v=mjXW1oqWx60",
+    "title": "Argil Trailer. Natural VR sculpting",
+    "description": "Valkyrie Industries is pleased to announce VR sculpting software Argil,\ncoming to Steam on 21st of April.\n\nInspired by real sculpting, Argil is an intuitive space that enables quick and effective creation of organic 3D objects, in a peaceful and meditative space. It offers various easy-to-use tools that feel like manipulating real clay in your own hands. Create seamlessly and quickly anything you want, be it your avatar, a model for 3D printing, a garment, or accessories.",
+    "kind": "video",
+    "file": "Assets/Projects/Argil/import-Argil-Trailer-Natural-VR-sculpting-10ea08be.mp4",
+    "status": "downloaded",
+    "bytes": 17941999,
+    "sha256": "6b510cb82aaf1f7cc87641b012e54f6db8d29c415af5fa3100340ced0e17049e",
+    "verified": true
+  },
+  {
+    "project": "Argil",
+    "source_page": "https://www.ivascht.com/unityandvr",
+    "url": "https://i.ytimg.com/vi/mjXW1oqWx60/mqdefault.jpg",
+    "title": "Argil Trailer. Natural VR sculpting poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Argil/import-Argil-Trailer-Natural-VR-sculpting-poster-657dd206.jpg",
+    "status": "downloaded",
+    "bytes": 6152,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "d4db35aa2ac5cfaf979555d707d86345944a993940c04089f5d185fa3a721111",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://static.wixstatic.com/media/0a1f4c_0d09cb4199e34d349a7af7ada23546b0~mv2.jpg",
+    "title": "1C6A6294 (32).jpg",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-1C6A6294-32-jpg-3bbdaf78.jpg",
+    "status": "downloaded",
+    "bytes": 3973769,
+    "dimensions": [
+      6192,
+      4128
+    ],
+    "sha256": "db21272fb013491a7c712843fe612ffcdc24f488fe31b4e72be8145c35e6f63f",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://static.wixstatic.com/media/0a1f4c_7c5e47d7e39e4ec3a858250d8b967d7a~mv2.png",
+    "title": "Valkyrie_Backpack.png",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Backpack-png-8c6d0409.png",
+    "status": "downloaded",
+    "bytes": 8876332,
+    "dimensions": [
+      6000,
+      3376
+    ],
+    "sha256": "21c5e24a81db5e10647977b7e67f86287f180aee83c2c076fa9f48c6c552698a",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.vimeocdn.com/video/1070121685-8f91631e434628f0c0c10c5da32779b7e5973267414d24dfa8f6df73af8ff424-d",
+    "title": "Valkyrie Industries presents a Haptic Teleoperation Demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-presents-a-Haptic-Teleoperation-Demo-poster-b644c689.jpg",
+    "status": "downloaded",
+    "bytes": 135384,
+    "dimensions": [
+      1920,
+      1000
+    ],
+    "sha256": "e39a7e9898d6746fa86dad78f04e7de317496ebc9d97119f15353597cd6b7df6",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://vimeo.com/292926046",
+    "title": "Valkyrie Industries presents Project: UHI",
+    "description": "Valkyrie Industries presents Project: UHI",
+    "kind": "video",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-presents-Project-UHI-5ce640ea.mp4",
+    "status": "failed",
+    "error": "[vimeo] Extracting URL: https://vimeo.com/292926046\n[vimeo] 292926046: Downloading webpage\nWARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [vimeo] 292926046: The web client only works when logged-in. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (vimeo) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.vimeocdn.com/video/734423918-2de957d6306e2277d7be08244aa78ad02724793410b241f77eaaa4fc2d051ba3-d",
+    "title": "Valkyrie Industries presents Project: UHI poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-presents-Project-UHI-poster-cafe70c3.jpg",
+    "status": "downloaded",
+    "bytes": 184611,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "a0a776530338b31daec7289a41261ab60ccf6881f67a7f25cd29f743cd8bffff",
+    "verified": true
+  },
+  {
+    "project": "Bifrost",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.vimeocdn.com/video/853532532-579bfa46a50ca8a54b56c364daed8a5abc2df1f450b074d233f3ecc98a0117cc-d",
+    "title": "Valkyrie Industries Tech Demo poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Bifrost/import-Valkyrie-Industries-Tech-Demo-poster-21a69b19.jpg",
+    "status": "downloaded",
+    "bytes": 136606,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "8840cfed9b5200fa5a792aa5c157ea727d67777e9f1b73b53e343a84056e0758",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://www.youtube.com/watch?v=UhtraDZyyOg",
+    "title": "How Do eir bands Work? | One Wearable for Strength, Recovery & Muscle Relief | EMS Technology | VR",
+    "description": "Discover eir bands — the EMS muscle stimulator designed to strengthen muscles, accelerate recovery, and support pain relief.\nOne wearable. Multiple uses. Train smarter at home or take your workouts further with immersive VR fitness.\nUsing the eir bands mobile app, you can target specific muscle groups, choose from over 20 training, recovery, and pain-management modes, and adjust intensity to match your goals. Whether you’re building strength, easing soreness, or managing everyday muscle discomfort, eir bands adapt to how your body moves.\nFor next-level training, switch to EIR Training, our flagship VR fitness experience. Stimulation syncs with your virtual movements, delivering real-time muscle activation across immersive workouts — helping you train harder while recovering smarter.\n\nKey benefits:\nEMS muscle stimulation for strength training\nFaster muscle recovery and reduced soreness\nTargeted pain relief and relaxation\nWearable, app-controlled fitness technology\nImmersive VR workouts with synced muscle activation\neir bands are built to perform — and designed to recover.\n\neir bands launch in January 2026, join the waitlist & get 15% off: https://www.valkyrie-vr.com/eirbands-waiting-list",
+    "kind": "video",
+    "file": "Assets/Projects/Eir bands/import-How-Do-eir-bands-Work-One-Wearable-for-Strength-Recovery-Muscle-Relief-EMS-Technology-1f6d616f.mp4",
+    "status": "downloaded",
+    "bytes": 19231688,
+    "sha256": "3cfc688d3c8dae86a724698a0db19d6308d56c3fe25f6f62b2051931d61f1e2b",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.ytimg.com/vi/UhtraDZyyOg/mqdefault.jpg",
+    "title": "How Do eir bands Work? | One Wearable for Strength, Recovery & Muscle Relief | EMS Technology | VR poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-How-Do-eir-bands-Work-One-Wearable-for-Strength-Recovery-Muscle-Relief-EMS-Technology-a2ef00a5.jpg",
+    "status": "downloaded",
+    "bytes": 10875,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "7eb241ddba2ff2a1e120840109dcd3de7f2485224fa08191592036c93e86a3ec",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://www.youtube.com/watch?v=RD3tP__VrHE",
+    "title": "Inside gym classes in the metaverse",
+    "description": "This is what a gym class looks like in the metaverse. UK-based tech startup Valkyrie Industries is using its patented wearable technology to allow users to take part in virtual reality fitness workouts.\n\nKeep up with the latest news from around the world: https://www.reuters.com/\n\n#News #Reuters #newsfeed #technology #tech #metaverse #startup \n\nSubscribe: http://smarturl.it/reuterssubscribe\n\nReuters brings you the latest business, finance and breaking news video from around the globe.  Our reputation for accuracy and impartiality is unparalleled.\n\nGet the latest news on: https://www.reuters.com/\nFollow Reuters on Facebook: https://www.facebook.com/Reuters\nFollow Reuters on Twitter: https://twitter.com/Reuters\nFollow Reuters on Instagram: https://www.instagram.com/reuters/?hl=en",
+    "kind": "video",
+    "file": "Assets/Projects/Eir bands/import-Inside-gym-classes-in-the-metaverse-a8e7724a.mp4",
+    "status": "downloaded",
+    "bytes": 60341780,
+    "sha256": "038af09fd754560cb481d948e8f1c332772535a70871771b8b6e6afc108df096",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.ytimg.com/vi/RD3tP__VrHE/mqdefault.jpg",
+    "title": "Inside gym classes in the metaverse poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-Inside-gym-classes-in-the-metaverse-poster-79a06710.jpg",
+    "status": "downloaded",
+    "bytes": 8584,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "8bc8af5be6a089b5a94ad5c0db73f55171307d455f8c6a703b15908ab17496bc",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://www.youtube.com/watch?v=eBLYZKGyW88",
+    "title": "Valkyrie EIR: VR's First Motion Haptics Wearable.",
+    "description": "Discover Valkyrie's Journey of Innovation!\n\nWelcome to our world of endless possibilities and to the future of haptics. In our debut video, we're taking you on an extraordinary journey through the heart and soul of Valkyrie Industries.\n\n🏗️ Witness the birth of our groundbreaking hardware, the EIR armbands, designed to feel in VR.\n\n🌐 Immerse yourself in the virtual realm of the EIR Training Fitness App, where technology and fitness converge to create a revolution in wellbeing. \n\n🚀 Join us as we trace our roots, share our vision, and unveil the passion that fuels our mission. We're more than a company; we're a movement.\n\n🌟 Come, be a part of our story, and let's embark on this incredible journey together. Don't just watch the future; become a part of it. Subscribe and hit that notification bell to stay in the loop. The adventure begins now! \n\nDon't forget to join our waiting list: www.valkyrie-vr.com/join-our-waiting-list \nPreorders are opening soon!\n\n#ValkyrieIndustries #InnovationJourney #FutureOfFitness",
+    "kind": "video",
+    "file": "Assets/Projects/Eir bands/import-Valkyrie-EIR-VR-s-First-Motion-Haptics-Wearable-517171a2.mp4",
+    "status": "downloaded",
+    "bytes": 66111028,
+    "sha256": "45045ffd0cce8c61ec05dd587e922571308d0bea3706c2c82190fccb27497fbf",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.ytimg.com/vi/eBLYZKGyW88/mqdefault.jpg",
+    "title": "Valkyrie EIR: VR's First Motion Haptics Wearable. poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-Valkyrie-EIR-VR-s-First-Motion-Haptics-Wearable-poster-217c10fd.jpg",
+    "status": "downloaded",
+    "bytes": 10169,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "c7d1bb395c6d517b9b99a051204a72890a0f2ebd60bc3bb04b267c8d2c74bc6d",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://www.youtube.com/watch?v=bmaCJsQxvuQ",
+    "title": "Valkyrie Industries Muscle Arm wearable at Immersive Tech Week in Rotterdam (VR Days)",
+    "description": "Valkyrie Industries Muscle Arm wearable at Immersive Tech Week in Rotterdam (VR Days)",
+    "kind": "video",
+    "file": "Assets/Projects/Eir bands/import-Valkyrie-Industries-Muscle-Arm-wearable-at-Immersive-Tech-Week-in-Rotterdam-VR-Days-cd0d0e95.mp4",
+    "status": "downloaded",
+    "bytes": 23210271,
+    "sha256": "547802aae1c1d28c6432e6561d5172e126793937426b7cf230c2dc07cd363141",
+    "verified": true
+  },
+  {
+    "project": "Eir bands",
+    "source_page": "https://www.ivascht.com/valkyrie-industries",
+    "url": "https://i.ytimg.com/vi/bmaCJsQxvuQ/mqdefault.jpg",
+    "title": "Valkyrie Industries Muscle Arm wearable at Immersive Tech Week in Rotterdam (VR Days) poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Projects/Eir bands/import-Valkyrie-Industries-Muscle-Arm-wearable-at-Immersive-Tech-Week-in-Rotterdam-VR-Days-p-8351f18c.jpg",
+    "status": "downloaded",
+    "bytes": 25852,
+    "dimensions": [
+      320,
+      180
+    ],
+    "sha256": "c163bc77413ef83b9e7bca0a1d42f806a5b3a48c36de200ac6f24bdfa0dfc462",
+    "verified": true
+  }
+]

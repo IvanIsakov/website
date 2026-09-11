@@ -1,0 +1,4 @@
+GENERATIVE ART
+Artworks created using Unity, Processing, and Stable Diffusion
+Since 2018 I have been coding challenges in Processing and Unity. Using my knowledge of physical laws, differential equations and mathematics, I have created many small sketches of varying quality. The best ones are presented here:
+Contact

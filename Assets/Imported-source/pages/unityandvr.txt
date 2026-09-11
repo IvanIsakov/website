@@ -1,0 +1,77 @@
+ARGIL
+VR sculpting for controllers and hand tracking
+Argil - is a natural VR sculpting tool, created by Dr Ivan Isakov in 2020 using Unity3D and compute shaders. It uses mesh manipulation, has some great functional brushes, and is published on Steam (for controllers) and Side Quest (for hand tracking)
+Steam
+Side Quest
+Play Video
+Play Video
+00:51
+argil
+Argil. AppLab Trailer
+Argil is an intuitive mesh-based VR sculpting application for Meta Quest 2. Coming soon
+Play Video
+Play Video
+01:03
+argil
+The VR sculpting tool Argil is out on Steam. The gallery of sculpts
+Gallery of VR sculpts made in Argil.
+Argil is Out Now! Get it on Steam
+https://store.steampowered.com/app/1468390/Argil/
+
+Colouring, texturing and lighting done in Unity.
+Sculptures include: ceramic dolphin, Venus of Wramplingham, Yorick Gagarin, Maggy the Spider and many more.
+Music R3ckzet, Abel Nesian - Madbull
+How should an NFT gallery look like?
+
+Developed by Valkyrie Industries
+Play Video
+Play Video
+00:50
+argil
+Sculpting app Argil test with the new Oculus Quest Passthrough feature
+Tested our sculpting app Argil with the new Quest Passthrough feature - it's amazing for furnishing houses or desks!
+
+Polygonal sculpting is possible on a standalone headset - Oculus Quest + experimental passthrough feature =
+Future of AR - amazing interface between real and digital.
+
+______________________________
+At the moment the hand tracking demo can be donwloaded on SideQuest https://sidequestvr.com/app/4814/argil
+The full version is on Steam https://store.steampowered.com/app/1468390/Argil/
+Play Video
+Play Video
+00:57
+argil
+Argil. VR Sculpting using Finger Tracking. SideQuest Trailer
+Inspired by real sculpting, Argil is an intuitive VR space that enables quick and fun creation of organic 3D objects using your hands and fingers. It offers various easy-to-use tools that feel like manipulating real clay in your own hands (although with no haptics yet).
+
+We tried to create a hand-tracking app that would be not just fun but useful! This is a perfect tool for beginners, 3D-designers, kids, developers, and everyone interested in the natural VR control. 
+
+The sculpting tools are: push, pull, carve, smooth, add different frequency noise, add/remove resolution, free-draw a mesh in 3D. Other features include: change colour, material, add different objects (cube, cuboid, sphere, sheet) to the scene, change environment. Possibilities include exporting OBJ for 3D-printing or for incorporating them in any other 3D environments.
+
+This is a demo of a future VR sculpting experience, that would include both hand tracking and controller support.
+
+You can upload it via SideQuest on:
+https://sidequestvr.com/app/4814
+
+Music: 
+Mokka - Funky Groove [Funk Music]
+https://www.youtube.com/watch?v=TXOwP3nOKJU
+Play Video
+Play Video
+01:01
+argil
+Argil Trailer. Natural VR sculpting
+Valkyrie Industries is pleased to announce VR sculpting software Argil,
+coming to Steam on 21st of April.
+
+Inspired by real sculpting, Argil is an intuitive space that enables quick and effective creation of organic 3D objects, in a peaceful and meditative space. It offers various easy-to-use tools that feel like manipulating real clay in your own hands. Create seamlessly and quickly anything you want, be it your avatar, a model for 3D printing, a garment, or accessories.
+EIR TRAINING
+A VR fitness game for Meta Quest headsets
+EIR Training - is a fitness app, utilising muscle haptic armbands -
+eir bands
+. It delivers combination of cardio and muscle training in an engaging gamified fashion. It was built in Unity3D in 2022 and overhauled in 2025 by a team lead by Ivan, junior developer Matthew Jenkins, Sybille Rerolle, Dan Tonks, Sanofer Hyderali & Decca Chan.
+EIR Training on Meta Quest
+v-health
+Designed for maximum customisation and simplicity, v-health applications (for XR and mobile) help individuals with neurological disorders strengthen muscles, reduce atrophy, and relearn everyday movements. It was built in 2024-25 by team led by Ivan Isakov, developers Dan Tonks, Matthew Jenkins, designers Sanofer Hyderali & Decca Chan.
+link to video
+Other projects

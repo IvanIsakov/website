@@ -1,0 +1,271 @@
+[
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://www.youtube.com/watch?v=c-eb3gtgKGs",
+    "title": "AI generated video",
+    "description": "Fully AI-generated video about woman's life. Stable Diffusion + GPT-3 + AIVA",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-AI-generated-video-9f12bef2.mp4",
+    "status": "downloaded",
+    "bytes": 9842379,
+    "sha256": "2ba0dfa1e41d7512448ce2dd47587bdc767557a1b316c21ac3567062d13d84ab",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_2f7e13b7a81a4bbd876e2403961140fc~mv2.jpg",
+    "title": "AI generated video poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-AI-generated-video-poster-affff1f1.jpg",
+    "status": "downloaded",
+    "bytes": 69874,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "fd8bbf129d8d6eeda363188f8f34a0b95b2edc36875fcd054fab55100dabc15a",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://video.wixstatic.com/video/0a1f4c_f838527281fe432d9a95b62a80c5e36d/1080p/mp4/file.mp4",
+    "title": "3D pigeon",
+    "description": "VR-sculpted pigeon",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-3D-pigeon-1f924373.mp4",
+    "status": "downloaded",
+    "bytes": 32345061,
+    "sha256": "9d3631f72b8a4e11a67eccd9dcf6c11255f19dac2920c0afdc9aeb444398a821",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_f838527281fe432d9a95b62a80c5e36df003.jpg",
+    "title": "3D pigeon poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-3D-pigeon-poster-300d9bb4.jpg",
+    "status": "downloaded",
+    "bytes": 221826,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "d7f2d573b356ac4b1fdd7d7138019a46eda88957106dd574bb196ccb5d7634ba",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://video.wixstatic.com/video/0a1f4c_b38c7541046042b1bea69e33498c770b/1080p/mp4/file.mp4",
+    "title": "Blobs",
+    "description": "Using Clayxel and Unity3D",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-Blobs-a315b131.mp4",
+    "status": "downloaded",
+    "bytes": 22904619,
+    "sha256": "64af9bb4f77ae092402f62d170f9e064492b30a03e8a4aff74a337657b5e0c7a",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_b38c7541046042b1bea69e33498c770bf003.jpg",
+    "title": "Blobs poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Blobs-poster-9b574c4b.jpg",
+    "status": "downloaded",
+    "bytes": 103695,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "e9998baa06b3c34f94207eb4ffea5c50da2beff18ab0553a223379ac7b55dac8",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://www.youtube.com/watch?v=pqueCAJIeDg",
+    "title": "Processing animation showreel",
+    "description": "2018",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-Processing-animation-showreel-a3ac25ff.mp4",
+    "status": "downloaded",
+    "bytes": 63121043,
+    "sha256": "d1252f5282196a33f81955626d07df5d21ca38cac421030cc037a588aa350fff",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_eeca26aae39946e7a4fb64310267ce2a~mv2.jpg",
+    "title": "Processing animation showreel poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Processing-animation-showreel-poster-d2b4376b.jpg",
+    "status": "downloaded",
+    "bytes": 65089,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "b4550cda00dd90ae0b9c7a1ec3be9769047a061bb4d5f2e539cb8e6e4e0070db",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_41737197c1054764935d39e614595904~mv2.png",
+    "title": "Studies of Perlin noise",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Studies-of-Perlin-noise-66c43107.png",
+    "status": "downloaded",
+    "bytes": 126335,
+    "dimensions": [
+      1040,
+      1040
+    ],
+    "sha256": "3d332d2f98e148c88a71d5e7acba896dff8931e939fad0d2355e0853e4f15d0e",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_6b6b7ce601434d6f81e9a7311427c1ec~mv2.png",
+    "title": "Studies of Brownian motion",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Studies-of-Brownian-motion-2077e4e0.png",
+    "status": "downloaded",
+    "bytes": 850759,
+    "dimensions": [
+      940,
+      940
+    ],
+    "sha256": "8eba1ce9318d043ef7b108b9c1e9b737594f32c4a8ea52ab9336e8485644114b",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_cd6abcb3abed44d6b62aee52b0dd655b~mv2.png",
+    "title": "Instability on a constrained surface",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Instability-on-a-constrained-surface-941bbd02.png",
+    "status": "downloaded",
+    "bytes": 446514,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "ef55ddfd4998953391959bda3d6a1d287de5e30e63d671ca49ee8163a7f05696",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_31a5844c1812443eb41259355b80b9a0~mv2.png",
+    "title": "Antibiotics resistance modelling",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Antibiotics-resistance-modelling-10f44c02.png",
+    "status": "downloaded",
+    "bytes": 181258,
+    "dimensions": [
+      640,
+      640
+    ],
+    "sha256": "f96831ab528e3ddad254541bb72a1174f8da3b14dbb3c260ff70bb29a4341d12",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_54567d4de56f4efc8400c3c6958f1a38~mv2.png",
+    "title": "Emergent behaviour",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Emergent-behaviour-6d32c99e.png",
+    "status": "downloaded",
+    "bytes": 53564,
+    "dimensions": [
+      640,
+      640
+    ],
+    "sha256": "e21d9769cc4fd43f90b4d6d36662579f5b3f062406393fa6601dde6e97a92034",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://video.wixstatic.com/video/0a1f4c_fbd6744528a941e98f0d490cf1063afd/720p/mp4/file.mp4",
+    "title": "Meditation circles",
+    "description": "",
+    "kind": "video",
+    "file": "Assets/Import-review/Generative art/import-Meditation-circles-81627bd3.mp4",
+    "status": "downloaded",
+    "bytes": 7446724,
+    "sha256": "55d265402508c05c52ff02b649d573a9d3aa8d3a0eadaf50781315a51c8d37f2",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_fbd6744528a941e98f0d490cf1063afdf003.jpg",
+    "title": "Meditation circles poster",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Meditation-circles-poster-ba55d7ca.jpg",
+    "status": "downloaded",
+    "bytes": 216520,
+    "dimensions": [
+      900,
+      900
+    ],
+    "sha256": "2d978479921346979ffef15607123b05bbe833169a5686770ed8b1595036c3dd",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/generative-art",
+    "url": "https://static.wixstatic.com/media/0a1f4c_b09bdba8e2c74ff49edf34e735452511~mv2.png",
+    "title": "interaction_universe_collapse_oscillate_",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-interaction-universe-collapse-oscillate-48cad1a6.png",
+    "status": "downloaded",
+    "bytes": 318846,
+    "dimensions": [
+      800,
+      800
+    ],
+    "sha256": "fd730a5ff545e418e5ce7cf274401b1196af98a270494f08cef46d2f3e0c4c40",
+    "verified": true
+  },
+  {
+    "project": "Generative art",
+    "source_page": "https://www.ivascht.com/",
+    "url": "https://static.wixstatic.com/media/0a1f4c_cdc54a23801f4e62a90fe940e96924fd~mv2.jpg",
+    "title": "Generative art",
+    "description": "",
+    "kind": "image",
+    "file": "Assets/Import-review/Generative art/import-Generative-art-69ad6ca4.jpg",
+    "status": "downloaded",
+    "bytes": 65921,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "sha256": "be7fdcaad5374fd4525b0ba854247e2e7f232acf8e825716f810a280b632876f",
+    "verified": true
+  }
+]
