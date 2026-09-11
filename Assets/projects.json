@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Eir bands",
+    "slug": "eir-bands",
+    "folder": "Eir bands",
+    "categories": [
+      "Valkyrie",
+      "Hardware"
+    ],
+    "year": "2022-26"
+  },
+  {
+    "name": "EIR Training",
+    "slug": "eir-training",
+    "folder": "EIR Training",
+    "categories": [
+      "Valkyrie",
+      "Software",
+      "Immersive"
+    ],
+    "year": "2022-24"
+  },
+  {
+    "name": "Bifrost",
+    "slug": "bifrost",
+    "folder": "Bifrost",
+    "categories": [
+      "Valkyrie",
+      "Hardware",
+      "Immersive"
+    ],
+    "year": "2019"
+  },
+  {
+    "name": "V-health XR",
+    "slug": "v-health-xr",
+    "folder": "V-health XR",
+    "categories": [
+      "Valkyrie",
+      "Software",
+      "Immersive"
+    ],
+    "year": "2025"
+  },
+  {
+    "name": "V-health mobile",
+    "slug": "v-health-mobile",
+    "folder": "V-health mobile",
+    "categories": [
+      "Valkyrie",
+      "Software"
+    ],
+    "year": "2026"
+  },
+  {
+    "name": "Argil",
+    "slug": "argil",
+    "folder": "Argil",
+    "categories": [
+      "Valkyrie",
+      "Art",
+      "Software",
+      "Immersive"
+    ],
+    "year": "2021"
+  },
+  {
+    "name": "v-health XR paper",
+    "slug": "v-health-xr-paper",
+    "folder": "v-health XR paper",
+    "categories": [
+      "Research",
+      "Valkyrie",
+      "Immersive"
+    ],
+    "year": "2026"
+  },
+  {
+    "name": "menstrual pain paper",
+    "slug": "menstrual-pain-paper",
+    "folder": "menstrual pain paper",
+    "categories": [
+      "Research",
+      "Valkyrie"
+    ],
+    "year": "2026"
+  },
+  {
+    "name": "IJVR Valkyrie Eir",
+    "slug": "ijvr-valkyrie-eir",
+    "folder": "IJVR Valkyrie Eir",
+    "categories": [
+      "Research",
+      "Valkyrie"
+    ],
+    "year": "2024"
+  },
+  {
+    "name": "Power and Inequality in do-ocracies",
+    "slug": "power-and-inequality-in-do-ocracies",
+    "folder": "Power and Inequality in do-ocracies",
+    "categories": [
+      "Research",
+      "Community"
+    ],
+    "year": "2026"
+  },
+  {
+    "name": "Target3D",
+    "slug": "target3d",
+    "folder": "Target3D",
+    "categories": [
+      "Interview"
+    ],
+    "year": "2025"
+  },
+  {
+    "name": "Yulia Sion",
+    "slug": "yulia-sion",
+    "folder": "Yulia Sion",
+    "categories": [
+      "Interview"
+    ],
+    "year": "2025"
+  },
+  {
+    "name": "Amata World",
+    "slug": "amata-world",
+    "folder": "Amata World",
+    "categories": [
+      "Interview"
+    ],
+    "year": "2026"
+  },
+  {
+    "name": "Olfactory Circles",
+    "slug": "olfactory-circles",
+    "folder": "Olfactory Circles",
+    "categories": [
+      "Art",
+      "Immersive"
+    ],
+    "year": "2026"
+  },
+  {
+    "name": "In search of Spider Consciousness",
+    "slug": "in-search-of-spider-consciousness",
+    "folder": "In search of Spider Consciousness",
+    "categories": [
+      "Art",
+      "Hardware",
+      "Immersive"
+    ],
+    "year": "2023"
+  },
+  {
+    "name": "Ear of the universe",
+    "slug": "ear-of-the-universe",
+    "folder": "Ear of the universe",
+    "categories": [
+      "Art",
+      "Hardware",
+      "Immersive"
+    ],
+    "year": "2019"
+  },
+  {
+    "name": "Amon-Ra",
+    "slug": "amon-ra",
+    "folder": "Amon-Ra",
+    "categories": [
+      "Art",
+      "Hardware",
+      "Software"
+    ],
+    "year": "2020"
+  },
+  {
+    "name": "Hyperspace trampoline",
+    "slug": "hyperspace-trampoline",
+    "folder": "Hyperspace trampoline",
+    "categories": [
+      "Art",
+      "Hardware"
+    ],
+    "year": "2023"
+  },
+  {
+    "name": "Portal",
+    "slug": "portal",
+    "folder": "Portal",
+    "categories": [
+      "Art",
+      "Hardware"
+    ],
+    "year": "2022"
+  },
+  {
+    "name": "Deep Sym",
+    "slug": "deep-sym",
+    "folder": "Deep Sym",
+    "categories": [
+      "Hardware"
+    ],
+    "year": "2020"
+  },
+  {
+    "name": "Memory Fractal",
+    "slug": "memory-fractal",
+    "folder": "Memory Fractal",
+    "categories": [
+      "Art",
+      "Software",
+      "Immersive"
+    ],
+    "year": "2024-26"
+  },
+  {
+    "name": "Virtual Classroom",
+    "slug": "virtual-classroom",
+    "folder": "Virtual Classroom",
+    "categories": [
+      "Valkyrie",
+      "Software",
+      "Immersive"
+    ],
+    "year": "2020"
+  },
+  {
+    "name": "Covid party",
+    "slug": "covid-party",
+    "folder": "Covid party",
+    "categories": [
+      "Art"
+    ],
+    "year": "2020"
+  },
+  {
+    "name": "Daria’s face",
+    "slug": "daria-s-face",
+    "folder": "Daria’s face",
+    "categories": [
+      "Art"
+    ],
+    "year": "2020"
+  },
+  {
+    "name": "Compute shaders",
+    "slug": "compute-shaders",
+    "folder": "Compute shaders",
+    "categories": [
+      "Art"
+    ],
+    "year": "2021"
+  },
+  {
+    "name": "DJing",
+    "slug": "djing",
+    "folder": "DJing",
+    "categories": [
+      "Extra"
+    ],
+    "year": ""
+  },
+  {
+    "name": "Blog",
+    "slug": "blog",
+    "folder": "Blog",
+    "categories": [
+      "Extra"
+    ],
+    "year": ""
+  },
+  {
+    "name": "7 of Clubs",
+    "slug": "7-of-clubs",
+    "folder": "7 of Clubs",
+    "categories": [
+      "Events",
+      "Community"
+    ],
+    "year": "2017-2026"
+  },
+  {
+    "name": "Headonists",
+    "slug": "headonists",
+    "folder": "Headonists",
+    "categories": [
+      "Events",
+      "Community"
+    ],
+    "year": "2025-2026"
+  },
+  {
+    "name": "CSM UAL",
+    "slug": "csm-ual",
+    "folder": "CSM UAL",
+    "categories": [
+      "Teaching"
+    ],
+    "year": "2024-2026"
+  },
+  {
+    "name": "Mooncows Fest",
+    "slug": "mooncows-fest",
+    "folder": "Mooncows Fest",
+    "categories": [
+      "Community"
+    ],
+    "year": "2022-2026"
+  },
+  {
+    "name": "MOOWS",
+    "slug": "moows",
+    "folder": "MOOWS",
+    "categories": [
+      "Community"
+    ],
+    "year": "2026"
+  }
+]
