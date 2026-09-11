@@ -10,7 +10,7 @@ assert.equal(projects.length,32);
 const out=path.join(root,'dist');
 for(const entry of fs.readdirSync(out,{recursive:true}).filter(p=>p.endsWith('.html'))){
  const html=fs.readFileSync(path.join(out,entry),'utf8');
- assert.match(html,/data-back/);
+ if(entry==='index.html')assert.doesNotMatch(html,/data-back/);else assert.match(html,/data-back/);
  for(const [,url] of html.matchAll(/(?:href|src)="(\/[^"#]*)"/g)){
   const target=path.join(out,decodeURIComponent(url));
   assert.ok(fs.existsSync(url.endsWith('/')?path.join(target,'index.html'):target),`Missing ${url} in ${entry}`);
@@ -40,3 +40,24 @@ for(const route of ['projects/index.html','projects/fixture/index.html']){
 }
 assert.match(fs.readFileSync(path.join(temp,'dist/projects/fixture/index.html'),'utf8'),/Second &lt;safe&gt;/);
 console.log('Passed: 32 routes, internal links, back links, contact links, category/description filters, and image/video carousel generation.');
+
+// Explicit cover wins over alphabetically earlier media.
+fs.writeFileSync(path.join(temp,'Assets/Projects/Fixture/thumbnail.png'),'fixture');
+fixture.build();
+const covered=fs.readFileSync(path.join(temp,'dist/projects/index.html'),'utf8');
+assert.ok(covered.indexOf('/thumbnail.png')<covered.indexOf('/01-image.svg'));
+assert.match(covered,/id="project-sort"/);
+const sortCards=[
+ {dataset:{name:'Zulu',year:'2022-26'}},
+ {dataset:{name:'alpha',year:'2019'}},
+ {dataset:{name:'Beta',year:''}},
+ {dataset:{name:'Gamma',year:'2024-2025'}}
+];
+let rendered=[];
+const sortContext={URLSearchParams,location:{search:''},document:{querySelectorAll(s){return s==='.project-card'?sortCards:[]},querySelector(s){return s==='.project-grid'?{appendChild(card){rendered.push(card)}}:null}}};
+vm.runInNewContext(fs.readFileSync(path.join(root,'src/app.js'),'utf8'),sortContext);
+for(const [order,names] of [['az',['alpha','Beta','Gamma','Zulu']],['za',['Zulu','Gamma','Beta','alpha']],['newest',['Zulu','Gamma','alpha','Beta']],['oldest',['alpha','Gamma','Zulu','Beta']],['original',['Zulu','alpha','Beta','Gamma']]]){
+ rendered=[];vm.runInNewContext(`sortProjects('${order}')`,sortContext);
+ assert.deepEqual(rendered.map(c=>c.dataset.name),names);
+}
+console.log('Passed: thumbnail priority, alphabetical sorting, year ranges, and undated entries.');

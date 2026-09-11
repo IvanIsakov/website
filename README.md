@@ -14,11 +14,11 @@ Each project has a folder in `Assets/Projects`, named after the project.
 - Put images and videos directly beside that file. Both project cards and detail pages automatically show them, with carousel controls when there is more than one item.
 - Images: JPG, JPEG, PNG, WebP, GIF, AVIF, SVG.
 - Videos: MP4, WebM, OGV, MOV. MP4 with H.264/AAC offers broad browser compatibility; MOV playback depends on the browser and codec.
-- Media are sorted by filename. Use `01-cover.jpg`, `02-detail.jpg`, `03-demo.mp4` to set the order. The first asset is the project thumbnail.
+- Media are sorted by filename. Use `01-cover.jpg`, `02-detail.jpg`, `03-demo.mp4` to set the order. Add `thumbnail.png` to each project folder to choose its cover. It always appears first in the card and gallery, regardless of filename order. Without it, the first media asset is used.
 - Empty project folders show a neutral title thumbnail until you add media.
 - Rebuild and republish after changes to update the hosted site. Local preview rebuilds on page refresh.
 
-`Assets/projects.json` controls project names, folder names, URL slugs, categories, years and order. It was transcribed from `Assets/Projects.rtf`; `Assets/Projects.txt` is its readable extraction. Subsequent changes to the RTF do not automatically modify the catalog. Update the JSON to add/remove projects or change categories; add the corresponding folder and description.txt for a new project. Filters match either an assigned category or its occurrence in the description, case-insensitively. Filter state stays in the URL and is restored on return.
+`Assets/projects.json` controls project names, folder names, URL slugs, categories, years and order. It was transcribed from `Assets/Projects.rtf`; `Assets/Projects.txt` is its readable extraction. Subsequent changes to the RTF do not automatically modify the catalog. Update the JSON to add/remove projects or change categories; add the corresponding folder and description.txt for a new project. Filters match either an assigned category or its occurrence in the description, case-insensitively. Filter and sort state stay in the URL and are restored on return. Sort by name (A–Z or Z–A), year (newest or oldest), or original order. Year ranges use their final year; undated entries stay last.
 
 All 32 entries are included, including DJing and Blog, whose inclusion was marked tentative in the original RTF. They have no year because none was supplied. Remove those catalog entries if you decide against them. The blog is also linked through Substack on Contact.
 
