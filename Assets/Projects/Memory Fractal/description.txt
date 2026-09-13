@@ -1,1 +1,3 @@
-MEMORY FRACTAL IS A NEW INTERACTIVE INSTALLATION MADE OF PERSONAL OBJECTS AND STORIES ABOUT PEOPLE IN BELFAST. In collaboration with Katya Solomatina, Beckie Stew, Natasha Rukavishnikova, Tatiana Schaunig and Luke Lucas
+MEMORY FRACTAL IS A NEW INTERACTIVE INSTALLATION MADE OF PERSONAL OBJECTS AND STORIES ABOUT PEOPLE IN BELFAST. In collaboration with Katya Solomatina, Beckie Stew, Natasha Rukavishnikova, Tatiana Schaunig and Luke Lucas.
+
+I was building the XR worlds, physical infrastructure using ESP32, web servers and sensors, and interaction.

@@ -34,7 +34,7 @@ cards[0].dataset.categories='Art';cards[0].dataset.description='A Valkyrie colla
 vm.runInNewContext("filter('Valkyrie')",context);assert.equal(cards[0].hidden,true);
 const temp=fs.mkdtempSync(path.join(os.tmpdir(),'portfolio-check-'));
 for(const dir of ['scripts','src','Assets/Projects/Fixture'])fs.mkdirSync(path.join(temp,dir),{recursive:true});
-for(const file of ['scripts/build.mjs','src/app.js','src/style.css','src/home-ripples.js','src/youtube-player.js','Assets/Intro.txt','Assets/Contact.json'])fs.copyFileSync(path.join(root,file),path.join(temp,file));
+for(const file of ['scripts/build.mjs','src/app.js','src/style.css','src/home-ripples.js','src/youtube-player.js','src/hls-player.js','Assets/Intro.txt','Assets/Contact.json'])fs.copyFileSync(path.join(root,file),path.join(temp,file));
 fs.writeFileSync(path.join(temp,'Assets/projects.json'),JSON.stringify([{name:'Fixture',slug:'fixture',folder:'Fixture',categories:['Art'],year:'2026'}]));
 fs.writeFileSync(path.join(temp,'Assets/Projects/Fixture/description.txt'),'First paragraph.\n\nSecond <safe> paragraph.');
 for(const f of ['01-image.svg','02-image.svg','03-video.mp4'])fs.writeFileSync(path.join(temp,'Assets/Projects/Fixture',f),f.endsWith('svg')?'<svg xmlns="http://www.w3.org/2000/svg"/>':'fixture');
@@ -94,3 +94,23 @@ const hosted=fs.readFileSync(path.join(temp,'dist/projects/fixture/index.html'),
 assert.match(hosted,/src="https:\/\/www.youtube.com\/embed\//);
 assert.match(hosted,/href="https:\/\/example.com\//);
 console.log('Passed: GitHub Pages subpath links, assets, 404 page, and unchanged external URLs.');
+
+fs.appendFileSync(path.join(temp,'Assets/Projects/Fixture/videos.txt'),'\nhttps://example.com/playlist.m3u8?token=a&b=2\nhttps://example.com/playlist.m3u8?token=a&b=2\nhttps://example.com/not-a-playlist.txt');
+fixture.build({basePath:'/website/'});
+const hlsHtml=fs.readFileSync(path.join(temp,'dist/projects/fixture/index.html'),'utf8');
+assert.equal((hlsHtml.match(/data-hls=/g)||[]).length,1);
+assert.match(hlsHtml,/data-hls="https:\/\/example.com\/playlist.m3u8\?token=a&amp;b=2"/);
+assert.match(hlsHtml,/src="\/website\/hls-player.js"/);
+assert.ok(hlsHtml.indexOf('data-hls=')<hlsHtml.indexOf('01-image.svg'));
+assert.ok(fs.existsSync(path.join(temp,'dist/hls-player.js')));
+console.log('Passed: HLS URLs with queries, deduplication, video-first ordering and Pages script path.');
+
+fs.appendFileSync(path.join(temp,'Assets/Projects/Fixture/videos.txt'),'\nhttps://drive.google.com/file/d/1dlWNIcFgkx4jHQuCMtEU2agQ9TYcITse/view?usp=sharing\nhttps://drive.google.com/file/d/1dlWNIcFgkx4jHQuCMtEU2agQ9TYcITse/preview\nhttps://drive.google.com/open?id=otherVideo&resourcekey=test-key\nhttps://drive.google.com.evil.example/file/d/fake/view');
+fixture.build({basePath:'/website/'});
+const driveHtml=fs.readFileSync(path.join(temp,'dist/projects/fixture/index.html'),'utf8');
+assert.equal((driveHtml.match(/class="drive-player"/g)||[]).length,2);
+assert.match(driveHtml,/data-src="https:\/\/drive.google.com\/file\/d\/1dlWNIcFgkx4jHQuCMtEU2agQ9TYcITse\/preview"/);
+assert.match(driveHtml,/otherVideo\/preview\?resourcekey=test-key/);
+assert.doesNotMatch(driveHtml,/evil.example/);
+assert.ok(driveHtml.indexOf('class="drive-player"')<driveHtml.indexOf('01-image.svg'));
+console.log('Passed: Drive sharing/preview links, deduplication, resource keys, host validation and video-first ordering.');

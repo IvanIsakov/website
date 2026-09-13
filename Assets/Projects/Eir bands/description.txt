@@ -1,5 +1,10 @@
-Wearable Muscle Haptics for VR
+Wearable Muscle Stimulation for neuromuscular health
 
-Using electrical muscle stimulation (EMS) synchronised with user's actions and movements in VR. The muscle haptic sensations are very consistent, they exerts a force on your muscle, train your muscle, and make your muscle tired. As some of our testers said: “This is the closest I’ve ever experienced to the feeling of resistance in VR” and “My arms are aching today from that workout! Got a proper session in there!”. The work on this particular devices started in September 2021, with the pre-production samples ready in September 2022. Devices have been manufactured by Luxshare & Cosmo.
+eir bands use electrical impulses to stimulate targeted muscles, providing a responsive sensations that reacts to every movement within digital environments. As muscles interact with virtual surroundings, the bands adapt in real-time to deliver motion stimulation to those muscles. 
 
-eir bands were shown to improve muscle metabolism
+This interactive approach aids muscle training by activating and strengthening muscles during immersive sessions, promoting muscle health, endurance, and recovery in a personalised, engaging way. eir bands were proven to improve muscle metabolism. 
+
+Under my leadership, between 2022 and 2025 Valkyrie Industries have designed and manufactured eir bands for several markets: virtual fitness, neurorehabilitation, muscle recovery. Devices have been manufactured by Luxshare & Cosmo.
+
+https://www.valkyrie-vr.com/eir-bands
+https://www.valkyrie-vr.com/shop-now

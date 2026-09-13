@@ -269,12 +269,22 @@
     "year": ""
   },
   {
+    "name": "Talks and Lectures",
+    "slug": "talks-and-lectures",
+    "folder": "Lectures",
+    "subtitle": "",
+    "categories": [
+      "Extra",
+      "Teaching"
+    ],
+    "year": "2019-2026"
+  },
+  {
     "name": "7 of Clubs",
     "slug": "7-of-clubs",
     "folder": "7 of Clubs",
     "subtitle": "An interdisciplinary art-science event",
     "categories": [
-      "Events",
       "Community"
     ],
     "year": "2017-2025"
@@ -285,7 +295,6 @@
     "folder": "Headonists",
     "subtitle": "London-based XR community meetups",
     "categories": [
-      "Events",
       "Community"
     ],
     "year": "2025-2026"

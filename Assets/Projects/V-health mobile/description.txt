@@ -4,6 +4,7 @@ Designed for maximum customisation and simplicity, v-health Mobile helps individ
 It was built in 2024-25 by team led by Ivan Isakov, developers Dan Tonks, Matthew Jenkins, designers Sanofer Hyderali & Decca Chan.
 
 https://www.valkyrie-vr.com/v-health
+https://play.google.com/store/apps/details?id=com.ValkyrieIndustries.vhealthmobile
 
 v-health mobile Case studies:
 https://www.valkyrie-vr.com/blog/v-health-mobile-case-study2

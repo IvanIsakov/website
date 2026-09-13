@@ -61,3 +61,6 @@ select:focus-visible{outline:2px solid #444;outline-offset:3px}
 /* Allow cards to shrink below the width of their single-line subtitles. */
 .project-card{min-width:0}
 .project-title h2{min-width:0;overflow-wrap:anywhere}
+
+.drive-player{display:block;width:100%;aspect-ratio:16/9;border:0;background:#000}
+.drive-link{display:block;text-align:center;font-size:14px;padding:12px}

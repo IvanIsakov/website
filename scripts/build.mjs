@@ -36,6 +36,30 @@ function instagramVideos(folder){
  }
  return [...posts.values()];
 }
+function driveVideos(folder){
+ const file=path.join(folder,'videos.txt');if(!fs.existsSync(file))return [];
+ const videos=new Map();
+ for(const match of fs.readFileSync(file,'utf8').matchAll(/https?:\/\/[^\s<>"']+/g)){
+  try{
+   const url=new URL(match[0].replace(/&amp;/g,'&').replace(/[),.;]+$/,''));
+   if(url.hostname!=='drive.google.com')continue;
+   const id=url.pathname.match(/^\/file\/d\/([A-Za-z0-9_-]+)(?:\/|$)/)?.[1]||(['/open','/uc'].includes(url.pathname)?url.searchParams.get('id'):null);
+   if(!id||! /^[A-Za-z0-9_-]+$/.test(id))continue;
+   const preview=new URL(`https://drive.google.com/file/d/${id}/preview`);
+   if(url.searchParams.has('resourcekey'))preview.searchParams.set('resourcekey',url.searchParams.get('resourcekey'));
+   if(!videos.has(id)||url.searchParams.has('resourcekey'))videos.set(id,{drive:true,url:preview.href,name:'Google Drive video'});
+  }catch{}
+ }
+ return [...videos.values()];
+}
+function hlsVideos(folder){
+ const file=path.join(folder,'videos.txt');if(!fs.existsSync(file))return [];
+ const urls=new Set();
+ for(const match of fs.readFileSync(file,'utf8').matchAll(/https?:\/\/[^\s<>"']+/g)){
+  try{const url=new URL(match[0].replace(/&amp;/g,'&').replace(/[),.;]+$/,''));if(/\.m3u8$/i.test(url.pathname))urls.add(url.href);}catch{}
+ }
+ return [...urls].map(url=>({hls:true,url,name:'Streaming video'}));
+}
 const paragraphs = s => s.trim().split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${linkify(p).replace(/\n/g,'<br>')}</p>`).join('');
 // Avoid copying large, unchanged videos on every local page refresh.
 function copyMedia(source,destination) {
@@ -54,9 +78,9 @@ export function build({copyAssets=true,basePath=process.env.BASE_PATH||'',output
   const folder=path.join(root,'Assets','Projects',p.folder);
   const media=(fs.existsSync(folder)?fs.readdirSync(folder):[]).filter(f=>/\.(jpe?g|jfif|png|webp|gif|avif|svg)$/i.test(f)).sort((a,b)=>(Number(b.toLowerCase()==='thumbnail.png')-Number(a.toLowerCase()==='thumbnail.png'))||a.localeCompare(b,undefined,{numeric:true}));
   const dest=path.join(out,'media',p.slug); if(copyAssets)fs.mkdirSync(dest,{recursive:true});
-  return {...p,description:fs.existsSync(path.join(folder,'description.txt'))?read(`Assets/Projects/${p.folder}/description.txt`):'',youtube:youtubeVideos(folder),instagram:instagramVideos(folder),media:media.map(f=>{if(copyAssets)copyMedia(path.join(folder,f),path.join(dest,f));return {url:`/media/${p.slug}/${encodeURIComponent(f)}`,name:f,video:/\.(mp4|webm|ogv|mov)$/i.test(f)};})};
+  return {...p,description:fs.existsSync(path.join(folder,'description.txt'))?read(`Assets/Projects/${p.folder}/description.txt`):'',youtube:youtubeVideos(folder),instagram:instagramVideos(folder),hls:hlsVideos(folder),drive:driveVideos(folder),media:media.map(f=>{if(copyAssets)copyMedia(path.join(folder,f),path.join(dest,f));return {url:`/media/${p.slug}/${encodeURIComponent(f)}`,name:f,video:/\.(mp4|webm|ogv|mov)$/i.test(f)};})};
  });
- const shell=(title,content,back='/')=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | Dr Ivan Isakov</title><meta name="description" content="Dr Ivan Isakov — scientist, entrepreneur and creative technologist. Projects in hardware, software, immersive experiences, art and research."><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script><script src="/youtube-player.js" defer></script>${title==='Home'?'<script src="/home-ripples.js" defer></script>':''}</head><body class="${title==='Home'?'home-page':'inner-page'}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="/">DR IVAN ISAKOV<span>Wearables, Immersion, Interaction</span></a><nav aria-label="Main"><a href="/projects/" ${title==='Projects'?'aria-current="page"':''}>Projects</a><a href="/about/" ${title==='About'?'aria-current="page"':''}>About</a><a href="/contact/" ${title==='Contact'?'aria-current="page"':''}>Contact</a></nav></header><main id="main">${title==='Home'?'':`<a class="back" data-back href="${back}">← Back</a>`}${content}</main><footer>© ${new Date().getFullYear()} Ivan Isakov</footer></body></html>`;
+ const shell=(title,content,back='/')=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | Dr Ivan Isakov</title><meta name="description" content="Dr Ivan Isakov — scientist, entrepreneur and creative technologist. Projects in hardware, software, immersive experiences, art and research."><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script><script src="/youtube-player.js" defer></script>${content.includes('data-hls=')?'<script src="/hls-player.js" defer></script>':''}${title==='Home'?'<script src="/home-ripples.js" defer></script>':''}</head><body class="${title==='Home'?'home-page':'inner-page'}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="/">DR IVAN ISAKOV<span>Wearables, Immersion, Interaction</span></a><nav aria-label="Main"><a href="/projects/" ${title==='Projects'?'aria-current="page"':''}>Projects</a><a href="/about/" ${title==='About'?'aria-current="page"':''}>About</a><a href="/contact/" ${title==='Contact'?'aria-current="page"':''}>Contact</a></nav></header><main id="main">${title==='Home'?'':`<a class="back" data-back href="${back}">← Back</a>`}${content}</main><footer>© ${new Date().getFullYear()} Ivan Isakov</footer></body></html>`;
  const write=(route,html)=>{const dir=path.join(out,route);fs.mkdirSync(dir,{recursive:true});fs.writeFileSync(path.join(dir,'index.html'),publicHtml(html))};
  const gallery=(p,card=false)=>{
   if(card){
@@ -65,9 +89,9 @@ export function build({copyAssets=true,basePath=process.env.BASE_PATH||'',output
     ? `<a class="project-thumbnail" href="/projects/${p.slug}/"><img src="${thumbnail.url}" alt="${esc(p.name)}" loading="lazy"></a>`
     : `<a class="placeholder" href="/projects/${p.slug}/" aria-label="View ${esc(p.name)}"><span>${esc(p.name)}</span></a>`;
   }
-  const assets=[...p.youtube,...p.instagram,...p.media.filter(m=>!thumbnailPattern.test(m.name)&&!m.video)];
+  const assets=[...p.youtube,...p.instagram,...p.hls,...p.drive,...p.media.filter(m=>!thumbnailPattern.test(m.name)&&!m.video)];
   if(!assets.length)return '';
-  return `<section class="gallery" aria-label="${esc(p.name)} media" data-gallery>${assets.map((m,i)=>`<figure ${i?'hidden':''}>${m.instagram?`<iframe class="instagram-player" title="${esc(p.name)} — Instagram post" ${i?'data-src':'src'}="${m.url}" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><a class="instagram-link" href="${m.permalink}" target="_blank" rel="noopener noreferrer">View on Instagram ↗</a>`:m.youtube?`<iframe class="youtube-player" title="${esc(p.name)} — YouTube video ${i+1}" ${i?'data-src':'src'}="${m.url}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`:m.video?`<video controls playsinline preload="metadata" aria-label="${esc(m.name)}"><source src="${m.url}">Your browser cannot play this video. <a href="${m.url}">Download video</a></video>`:`<img src="${m.url}" alt="${esc(p.name+' — '+m.name.replace(/\.[^.]+$/,'').replace(/[-_]/g,' '))}" loading="lazy">`}</figure>`).join('')}${assets.length>1?`<div class="gallery-controls"><button type="button" data-step="-1" aria-label="Previous media">←</button><span aria-live="polite">1 / ${assets.length}</span><button type="button" data-step="1" aria-label="Next media">→</button></div>`:''}</section>`;
+  return `<section class="gallery" aria-label="${esc(p.name)} media" data-gallery>${assets.map((m,i)=>`<figure ${i?'hidden':''}>${m.drive?`<iframe class="drive-player" title="${esc(p.name)} — Google Drive video ${i+1}" ${i?'data-src':'src'}="${esc(m.url)}" allow="autoplay; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><a class="drive-link" href="${esc(m.url)}" target="_blank" rel="noopener noreferrer">View on Google Drive ↗</a>`:m.hls?`<video controls playsinline preload="none" data-hls="${esc(m.url)}" aria-label="${esc(p.name)} — streaming video"></video><p class="hls-error" role="status" hidden>Unable to play this stream. <a href="${esc(m.url)}" target="_blank" rel="noopener noreferrer">Open video link ↗</a></p>`:m.instagram?`<iframe class="instagram-player" title="${esc(p.name)} — Instagram post" ${i?'data-src':'src'}="${m.url}" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><a class="instagram-link" href="${m.permalink}" target="_blank" rel="noopener noreferrer">View on Instagram ↗</a>`:m.youtube?`<iframe class="youtube-player" title="${esc(p.name)} — YouTube video ${i+1}" ${i?'data-src':'src'}="${m.url}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`:m.video?`<video controls playsinline preload="metadata" aria-label="${esc(m.name)}"><source src="${m.url}">Your browser cannot play this video. <a href="${m.url}">Download video</a></video>`:`<img src="${m.url}" alt="${esc(p.name+' — '+m.name.replace(/\.[^.]+$/,'').replace(/[-_]/g,' '))}" loading="lazy">`}</figure>`).join('')}${assets.length>1?`<div class="gallery-controls"><button type="button" data-step="-1" aria-label="Previous media">←</button><span aria-live="polite">1 / ${assets.length}</span><button type="button" data-step="1" aria-label="Next media">→</button></div>`:''}</section>`;
  };
  const intro=read('Assets/Intro.txt').replace(/^ABOUT\s*/,'').replace(/[\u200B\uFEFF]/g,'');
  write('',shell('Home',`<section class="home-hero"><h1>IVAN ISAKOV</h1><p class="home-subtitle">Immersive Technology, Haptics, Wearables, Interaction Design, Creative Technology</p></section>`));
@@ -89,7 +113,7 @@ export function build({copyAssets=true,basePath=process.env.BASE_PATH||'',output
  const contact=JSON.parse(read('Assets/Contact.json'));
  write('contact',shell('Contact',`<section class="contact"><h1>CONTACT</h1><div class="contact-links">${Object.entries(contact).map(([label,url])=>url?`<a href="${esc(label==='Email'&&!url.startsWith('mailto:')?'mailto:'+url:url)}">${esc(label)} <span>↗</span></a>`:`<div class="unavailable">${esc(label)} <small>Coming soon</small></div>`).join('')}</div></section>`));
  fs.writeFileSync(path.join(out,'404.html'),publicHtml(shell('Page not found','<h1>PAGE NOT FOUND</h1><p><a href="/projects/">Browse projects</a></p>')));
- for(const f of ['style.css','app.js','home-ripples.js','youtube-player.js'])fs.copyFileSync(path.join(root,'src',f),path.join(out,f));
+ for(const f of ['style.css','app.js','home-ripples.js','youtube-player.js','hls-player.js'])fs.copyFileSync(path.join(root,'src',f),path.join(out,f));
  return projects;
 }
 if(process.argv[1]===fileURLToPath(import.meta.url))console.log(`Built ${build().length} project pages.`);

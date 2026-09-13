@@ -1,1 +1,1 @@
-Over several years, I have been creating experimental generative art using Processing, Unity and, lately, all the other languages. Here are some examples of my older work.
+Over several years, I have been creating experimental generative art using Processing, Unity, and HLSL (when people were still writing code from scratch). Here are some examples of my older work.
