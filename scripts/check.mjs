@@ -80,3 +80,17 @@ assert.match(linked,/href="https:\/\/example.com\/test\?a=1&amp;b=2" target="_bl
 assert.match(linked,/&lt;script&gt;/);
 assert.doesNotMatch(linked,/<script>alert/);
 console.log('Passed: YouTube ordering/deduplication, alternate thumbnail extension, and safe external description links.');
+
+fixture.build({basePath:'/website/'});
+for(const entry of fs.readdirSync(path.join(temp,'dist'),{recursive:true}).filter(p=>p.endsWith('.html'))){
+ const html=fs.readFileSync(path.join(temp,'dist',entry),'utf8');
+ for(const [,url] of html.matchAll(/(?:href|src)="(\/[^"#]*)"/g)){
+  assert.ok(url.startsWith('/website/'),`Missing Pages prefix: ${url}`);
+  const target=path.join(temp,'dist',decodeURIComponent(url.slice('/website/'.length)));
+  assert.ok(fs.existsSync(url.endsWith('/')?path.join(target,'index.html'):target),`Missing Pages target: ${url}`);
+ }
+}
+const hosted=fs.readFileSync(path.join(temp,'dist/projects/fixture/index.html'),'utf8');
+assert.match(hosted,/src="https:\/\/www.youtube.com\/embed\//);
+assert.match(hosted,/href="https:\/\/example.com\//);
+console.log('Passed: GitHub Pages subpath links, assets, 404 page, and unchanged external URLs.');

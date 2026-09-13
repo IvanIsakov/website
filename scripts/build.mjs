@@ -37,7 +37,9 @@ function copyMedia(source,destination) {
  }
  fs.copyFileSync(source,destination);
 }
-export function build({copyAssets=true}={}) {
+export function build({copyAssets=true,basePath=process.env.BASE_PATH||''}={}) {
+ const prefix=basePath.replace(/^\/+|\/+$/g,'');
+ const publicHtml=html=>prefix?html.replace(/\b(href|src|data-src)="\/(?!\/)/g,(_,attribute)=>`${attribute}="/${esc(prefix)}/`):html;
  const out = path.join(root,'dist'); fs.mkdirSync(out,{recursive:true});
  const projects = JSON.parse(read('Assets/projects.json')).map(p=>{
   const folder=path.join(root,'Assets','Projects',p.folder);
@@ -46,7 +48,7 @@ export function build({copyAssets=true}={}) {
   return {...p,description:fs.existsSync(path.join(folder,'description.txt'))?read(`Assets/Projects/${p.folder}/description.txt`):'',youtube:youtubeVideos(folder),media:media.map(f=>{if(copyAssets)copyMedia(path.join(folder,f),path.join(dest,f));return {url:`/media/${p.slug}/${encodeURIComponent(f)}`,name:f,video:/\.(mp4|webm|ogv|mov)$/i.test(f)};})};
  });
  const shell=(title,content,back='/')=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | Ivan Isakov</title><meta name="description" content="Ivan Isakov — scientist, entrepreneur and creative technologist. Projects in hardware, software, immersive experiences, art and research."><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script><script src="/youtube-player.js" defer></script>${title==='Home'?'<script src="/home-ripples.js" defer></script>':''}</head><body class="${title==='Home'?'home-page':'inner-page'}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="/">DR IVAN ISAKOV<span>VR, Haptics, Interaction</span></a><nav aria-label="Main"><a href="/projects/" ${title==='Projects'?'aria-current="page"':''}>Projects</a><a href="/about/" ${title==='About'?'aria-current="page"':''}>About</a><a href="/contact/" ${title==='Contact'?'aria-current="page"':''}>Contact</a></nav></header><main id="main">${title==='Home'?'':`<a class="back" data-back href="${back}">← Back</a>`}${content}</main><footer>© ${new Date().getFullYear()} Ivan Isakov</footer></body></html>`;
- const write=(route,html)=>{const dir=path.join(out,route);fs.mkdirSync(dir,{recursive:true});fs.writeFileSync(path.join(dir,'index.html'),html)};
+ const write=(route,html)=>{const dir=path.join(out,route);fs.mkdirSync(dir,{recursive:true});fs.writeFileSync(path.join(dir,'index.html'),publicHtml(html))};
  const gallery=(p,card=false)=>{
   if(card){
    const thumbnail=p.media.find(m=>thumbnailPattern.test(m.name));
@@ -72,7 +74,7 @@ export function build({copyAssets=true}={}) {
  for(const p of projects)write(`projects/${p.slug}`,shell(p.name,`<section class="project-detail"><p class="meta">${p.categories.map(esc).join(' · ')}${p.year?' / '+esc(p.year):''}</p><h1>${esc(p.name)}</h1><div class="description">${p.description.trim()?paragraphs(p.description):'<p class="muted">Project details coming soon.</p>'}</div>${gallery(p)}</section>`,'/projects/'));
  const contact=JSON.parse(read('Assets/Contact.json'));
  write('contact',shell('Contact',`<section class="contact"><h1>CONTACT</h1><div class="contact-links">${Object.entries(contact).map(([label,url])=>url?`<a href="${esc(label==='Email'&&!url.startsWith('mailto:')?'mailto:'+url:url)}">${esc(label)} <span>↗</span></a>`:`<div class="unavailable">${esc(label)} <small>Coming soon</small></div>`).join('')}</div></section>`));
- fs.writeFileSync(path.join(out,'404.html'),shell('Page not found','<h1>PAGE NOT FOUND</h1><p><a href="/projects/">Browse projects</a></p>'));
+ fs.writeFileSync(path.join(out,'404.html'),publicHtml(shell('Page not found','<h1>PAGE NOT FOUND</h1><p><a href="/projects/">Browse projects</a></p>')));
  for(const f of ['style.css','app.js','home-ripples.js','youtube-player.js'])fs.copyFileSync(path.join(root,'src',f),path.join(out,f));
  return projects;
 }
