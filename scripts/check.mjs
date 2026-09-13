@@ -34,7 +34,7 @@ cards[0].dataset.categories='Art';cards[0].dataset.description='A Valkyrie colla
 vm.runInNewContext("filter('Valkyrie')",context);assert.equal(cards[0].hidden,true);
 const temp=fs.mkdtempSync(path.join(os.tmpdir(),'portfolio-check-'));
 for(const dir of ['scripts','src','Assets/Projects/Fixture'])fs.mkdirSync(path.join(temp,dir),{recursive:true});
-for(const file of ['scripts/build.mjs','src/app.js','src/style.css','src/home-ripples.js','src/youtube-player.js','src/hls-player.js','Assets/Intro.txt','Assets/Contact.json'])fs.copyFileSync(path.join(root,file),path.join(temp,file));
+for(const file of ['scripts/build.mjs','src/app.js','src/style.css','src/favicon.svg','src/home-ripples.js','src/youtube-player.js','src/hls-player.js','Assets/Intro.txt','Assets/Contact.json'])fs.copyFileSync(path.join(root,file),path.join(temp,file));
 fs.writeFileSync(path.join(temp,'Assets/projects.json'),JSON.stringify([{name:'Fixture',slug:'fixture',folder:'Fixture',categories:['Art'],year:'2026'}]));
 fs.writeFileSync(path.join(temp,'Assets/Projects/Fixture/description.txt'),'First paragraph.\n\nSecond <safe> paragraph.');
 for(const f of ['01-image.svg','02-image.svg','03-video.mp4'])fs.writeFileSync(path.join(temp,'Assets/Projects/Fixture',f),f.endsWith('svg')?'<svg xmlns="http://www.w3.org/2000/svg"/>':'fixture');
