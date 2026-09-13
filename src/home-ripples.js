@@ -25,8 +25,8 @@
    if(waves[i].w>0. && age>=0.){
     vec2 delta=p-waves[i].xy;
     float r=length(delta);
-    float front=r-480.*age;
-    float k=0.065;
+    float front=r-280.*age;
+    float k=0.095;
     float envelope=exp(-front*front/11000.);
     float decay=exp(-age*1.6)/sqrt(1.+r*.003);
     float amplitude=7.*envelope*decay;

@@ -3,6 +3,7 @@
     "name": "Eir bands",
     "slug": "eir-bands",
     "folder": "Eir bands",
+    "subtitle": "Muscle stimulation wearables for fitness & neuromuscular recovery",
     "categories": [
       "Valkyrie",
       "Hardware"
@@ -10,9 +11,10 @@
     "year": "2022-26"
   },
   {
-    "name": "EIR Training",
+    "name": "Eir Training",
     "slug": "eir-training",
     "folder": "EIR Training",
+    "subtitle": "Gamified VR fitness with muscle stimulation",
     "categories": [
       "Valkyrie",
       "Software",
@@ -21,9 +23,22 @@
     "year": "2022-24"
   },
   {
+    "name": "V-health XR",
+    "slug": "v-health-xr",
+    "folder": "V-health XR",
+    "subtitle": "Gamified neuro-rehabilitation with XR and electrical stimulation",
+    "categories": [
+      "Valkyrie",
+      "Software",
+      "Immersive"
+    ],
+    "year": "2023-2025"
+  },
+  {
     "name": "Bifrost",
     "slug": "bifrost",
     "folder": "Bifrost",
+    "subtitle": "Upper-body haptic feedack suit for VR",
     "categories": [
       "Valkyrie",
       "Hardware",
@@ -32,30 +47,21 @@
     "year": "2019"
   },
   {
-    "name": "V-health XR",
-    "slug": "v-health-xr",
-    "folder": "V-health XR",
-    "categories": [
-      "Valkyrie",
-      "Software",
-      "Immersive"
-    ],
-    "year": "2025"
-  },
-  {
     "name": "V-health mobile",
     "slug": "v-health-mobile",
     "folder": "V-health mobile",
+    "subtitle": "Versatile neuromuscular stimulation app for rehabilitation",
     "categories": [
       "Valkyrie",
       "Software"
     ],
-    "year": "2026"
+    "year": "2024-2026"
   },
   {
     "name": "Argil",
     "slug": "argil",
     "folder": "Argil",
+    "subtitle": "VR sculpting with controllers and hand tracking",
     "categories": [
       "Valkyrie",
       "Art",
@@ -68,6 +74,7 @@
     "name": "v-health XR paper",
     "slug": "v-health-xr-paper",
     "folder": "v-health XR paper",
+    "subtitle": "Feasibility study of XR and FES for stroke recovery",
     "categories": [
       "Research",
       "Valkyrie",
@@ -76,19 +83,21 @@
     "year": "2026"
   },
   {
-    "name": "menstrual pain paper",
+    "name": "Menstrual Pain Relief Study",
     "slug": "menstrual-pain-paper",
     "folder": "menstrual pain paper",
+    "subtitle": "Studying wearable stimulation for menstrual pain relief",
     "categories": [
       "Research",
       "Valkyrie"
     ],
-    "year": "2026"
+    "year": "2025"
   },
   {
-    "name": "IJVR Valkyrie Eir",
+    "name": "VR and stimulation fitness study",
     "slug": "ijvr-valkyrie-eir",
     "folder": "IJVR Valkyrie Eir",
+    "subtitle": "Comparing VR fitness with and without muscle stimulation",
     "categories": [
       "Research",
       "Valkyrie"
@@ -99,6 +108,7 @@
     "name": "Power and Inequality in do-ocracies",
     "slug": "power-and-inequality-in-do-ocracies",
     "folder": "Power and Inequality in do-ocracies",
+    "subtitle": "Research into power and decision-making in community groups",
     "categories": [
       "Research",
       "Community"
@@ -106,36 +116,20 @@
     "year": "2026"
   },
   {
-    "name": "Target3D",
+    "name": "Interview with Target3D",
     "slug": "target3d",
     "folder": "Target3D",
+    "subtitle": "A conversation about VR, haptics and stroke rehabilitation",
     "categories": [
       "Interview"
     ],
     "year": "2025"
-  },
-  {
-    "name": "Yulia Sion",
-    "slug": "yulia-sion",
-    "folder": "Yulia Sion",
-    "categories": [
-      "Interview"
-    ],
-    "year": "2025"
-  },
-  {
-    "name": "Amata World",
-    "slug": "amata-world",
-    "folder": "Amata World",
-    "categories": [
-      "Interview"
-    ],
-    "year": "2026"
   },
   {
     "name": "Olfactory Circles",
     "slug": "olfactory-circles",
     "folder": "Olfactory Circles",
+    "subtitle": "Multisensory immersive experience with scent, sound and poetry",
     "categories": [
       "Art",
       "Immersive"
@@ -146,6 +140,7 @@
     "name": "In search of Spider Consciousness",
     "slug": "in-search-of-spider-consciousness",
     "folder": "In search of Spider Consciousness",
+    "subtitle": "Immersive art installation at the European Burning Man",
     "categories": [
       "Art",
       "Hardware",
@@ -157,6 +152,7 @@
     "name": "Ear of the universe",
     "slug": "ear-of-the-universe",
     "folder": "Ear of the universe",
+    "subtitle": "Immersive art installation at the European Burning Man",
     "categories": [
       "Art",
       "Hardware",
@@ -168,6 +164,7 @@
     "name": "Amon-Ra",
     "slug": "amon-ra",
     "folder": "Amon-Ra",
+    "subtitle": "A pyramid-shaped controller for live generative visuals",
     "categories": [
       "Art",
       "Hardware",
@@ -179,6 +176,7 @@
     "name": "Hyperspace trampoline",
     "slug": "hyperspace-trampoline",
     "folder": "Hyperspace trampoline",
+    "subtitle": "A festival cuddle space with LEDs, fabric and faux fur",
     "categories": [
       "Art",
       "Hardware"
@@ -189,6 +187,7 @@
     "name": "Portal",
     "slug": "portal",
     "folder": "Portal",
+    "subtitle": "A sound-reactive LED portal for forest parties",
     "categories": [
       "Art",
       "Hardware"
@@ -199,6 +198,7 @@
     "name": "Deep Sym",
     "slug": "deep-sym",
     "folder": "Deep Sym",
+    "subtitle": "A biofeedback device for breathwork and meditation",
     "categories": [
       "Hardware"
     ],
@@ -208,6 +208,7 @@
     "name": "Memory Fractal",
     "slug": "memory-fractal",
     "folder": "Memory Fractal",
+    "subtitle": "An interactive XR installation of Belfast stories",
     "categories": [
       "Art",
       "Software",
@@ -216,9 +217,30 @@
     "year": "2024-26"
   },
   {
+    "name": "Podcast with Internet of Senses Institute",
+    "slug": "yulia-sion",
+    "folder": "Yulia Sion",
+    "subtitle": "A podcast conversation about haptics and immersive technology",
+    "categories": [
+      "Interview"
+    ],
+    "year": "2025"
+  },
+  {
+    "name": "Interview with Amata World",
+    "slug": "amata-world",
+    "folder": "Amata World",
+    "subtitle": "A podcast on muscle haptics, spatial computing and recovery",
+    "categories": [
+      "Interview"
+    ],
+    "year": "2026"
+  },
+  {
     "name": "Virtual Classroom",
     "slug": "virtual-classroom",
     "folder": "Virtual Classroom",
+    "subtitle": "A shared virtual classroom for VR and desktop learning",
     "categories": [
       "Valkyrie",
       "Software",
@@ -230,33 +252,17 @@
     "name": "Covid party",
     "slug": "covid-party",
     "folder": "Covid party",
+    "subtitle": "A virtual dance party with sculpted characters",
     "categories": [
       "Art"
     ],
     "year": "2020"
-  },
-  {
-    "name": "Daria’s face",
-    "slug": "daria-s-face",
-    "folder": "Daria’s face",
-    "categories": [
-      "Art"
-    ],
-    "year": "2020"
-  },
-  {
-    "name": "Compute shaders",
-    "slug": "compute-shaders",
-    "folder": "Compute shaders",
-    "categories": [
-      "Art"
-    ],
-    "year": "2021"
   },
   {
     "name": "Miscellaneous",
     "slug": "miscellaneous",
     "folder": "Miscellaneous",
+    "subtitle": "DJ sets",
     "categories": [
       "Extra"
     ],
@@ -266,6 +272,7 @@
     "name": "7 of Clubs",
     "slug": "7-of-clubs",
     "folder": "7 of Clubs",
+    "subtitle": "An interdisciplinary art-science event",
     "categories": [
       "Events",
       "Community"
@@ -276,6 +283,7 @@
     "name": "Headonists",
     "slug": "headonists",
     "folder": "Headonists",
+    "subtitle": "London-based XR community meetups",
     "categories": [
       "Events",
       "Community"
@@ -286,24 +294,38 @@
     "name": "CSM UAL",
     "slug": "csm-ual",
     "folder": "CSM UAL",
+    "subtitle": "Associate Lecturer in Design for Industry 5.0",
     "categories": [
       "Teaching"
     ],
     "year": "2024-2026"
   },
   {
+    "name": "Generative Art",
+    "slug": "generative-art",
+    "folder": "Generative Art",
+    "subtitle": "Experiments in art made with code",
+    "categories": [
+      "Art",
+      "Extra"
+    ],
+    "year": "2020-2024"
+  },
+  {
     "name": "Mooncows Fest",
     "slug": "mooncows-fest",
     "folder": "Mooncows Fest",
+    "subtitle": "A community-created festival of music, art and shared ideas",
     "categories": [
       "Community"
     ],
     "year": "2022-2026"
   },
   {
-    "name": "MOOWS",
+    "name": "MOOWS. Mooncows zine",
     "slug": "moows",
     "folder": "MOOWS",
+    "subtitle": "A community zine of stories, art and life in MoonCows",
     "categories": [
       "Community"
     ],

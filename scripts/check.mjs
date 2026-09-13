@@ -28,10 +28,10 @@ const cards=projects.map(p=>({dataset:{categories:p.categories.join('|'),descrip
 const count={};
 const context={URLSearchParams,location:{search:'?category=Valkyrie'},document:{querySelectorAll(s){return s==='[data-filter]'?buttons:s==='.project-card'?cards:[]},querySelector(s){return s==='.count'?count:null}}};
 vm.runInNewContext(fs.readFileSync(path.join(root,'src/app.js'),'utf8'),context);
-assert.equal(cards.filter(c=>!c.hidden).length,projects.filter(p=>p.categories.includes('Valkyrie')||p.description.toLowerCase().includes('valkyrie')).length);
+assert.equal(cards.filter(c=>!c.hidden).length,projects.filter(p=>p.categories.includes('Valkyrie')).length);
 vm.runInNewContext("filter('All')",context);assert.ok(cards.every(c=>!c.hidden));
 cards[0].dataset.categories='Art';cards[0].dataset.description='A Valkyrie collaboration'.toLowerCase();
-vm.runInNewContext("filter('Valkyrie')",context);assert.equal(cards[0].hidden,false);
+vm.runInNewContext("filter('Valkyrie')",context);assert.equal(cards[0].hidden,true);
 const temp=fs.mkdtempSync(path.join(os.tmpdir(),'portfolio-check-'));
 for(const dir of ['scripts','src','Assets/Projects/Fixture'])fs.mkdirSync(path.join(temp,dir),{recursive:true});
 for(const file of ['scripts/build.mjs','src/app.js','src/style.css','src/home-ripples.js','src/youtube-player.js','Assets/Intro.txt','Assets/Contact.json'])fs.copyFileSync(path.join(root,file),path.join(temp,file));
@@ -45,7 +45,7 @@ for(const route of ['projects/fixture/index.html']){
  assert.match(html,/data-gallery/);assert.match(html,/data-step="1"/);assert.match(html,/<iframe/);assert.doesNotMatch(html,/<video/);assert.ok(html.indexOf('<iframe')<html.indexOf('01-image.svg'));assert.match(html,/1 \/ 3/);
 }
 assert.match(fs.readFileSync(path.join(temp,'dist/projects/fixture/index.html'),'utf8'),/Second &lt;safe&gt;/);
-console.log('Passed: 32 routes, internal links, back links, contact links, category/description filters, and image/video carousel generation.');
+console.log('Passed: 32 routes, internal links, back links, contact links, category-only filters, and image/video carousel generation.');
 
 // Explicit cover wins over alphabetically earlier media.
 fs.writeFileSync(path.join(temp,'Assets/Projects/Fixture/thumbnail.webp'),'fixture');
